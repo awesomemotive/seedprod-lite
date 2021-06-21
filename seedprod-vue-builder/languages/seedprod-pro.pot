@@ -1,0 +1,5460 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/App.vue:232
+#: src/views/Setup.vue:1087
+msgid "Changes not saved, are you sure you want to leave?"
+msgstr ""
+
+#: src/admin/Aboutus.vue:36
+#: src/admin/App.vue:222
+msgid "About Us"
+msgstr ""
+
+#: src/admin/Aboutus.vue:37
+msgid "Getting Started"
+msgstr ""
+
+#: src/admin/Aboutus.vue:38
+msgid "Lite vs Pro"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:103
+msgid ""
+"Yup, we know a thing or two about building awesome products that customers "
+"love."
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:107
+msgid "the most popular lead-generation software"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:111
+msgid "the best WordPress analytics plugin"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:115
+msgid "the best WordPress forms plugin"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:119
+msgid "the best WordPress giveaway plugin"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:123
+msgid "and finally the best WordPress FOMO plugin"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:127
+msgid "SeedProd Team photo"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:128
+msgid "The SeedProd Team"
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:87
+msgid ""
+"Hello and welcome to SeedProd, the most beginner friendly drag & drop "
+"WordPress landing page plugin. At SeedProd, we build software that helps "
+"you create beautiful responsive landing pages for your website in minutes."
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:91
+msgid ""
+"Over the years, we found that most WordPress landing page plugins were "
+"bloated, buggy, slow, and very hard to use. So we started with a simple "
+"goal: build a WordPress landing page plugin that’s both easy and powerful."
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:95
+msgid "Our goal is to take the pain out of creating landing pages and make it easy."
+msgstr ""
+
+#: src/admin/AboutusAbout.vue:99
+msgid ""
+"SeedProd is brought to you by the same team that’s behind the largest "
+"WordPress resource site,"
+msgstr ""
+
+#: src/admin/App.vue:220
+msgid "Pages"
+msgstr ""
+
+#: src/admin/App.vue:221
+msgid "Growth Tools"
+msgstr ""
+
+#: src/admin/App.vue:223
+#: src/admin/Dashboard-Pro.vue:478
+msgid "Subscribers"
+msgstr ""
+
+#: src/admin/App.vue:224
+#: src/components/CountdownOptions.vue:577
+#: src/components/CustomHTMLOptions.vue:156
+#: src/components/FormOptions.vue:178
+#: src/components/NavOptions.vue:328
+#: src/components/ShortcodeOptions.vue:107
+#: src/components/WCAddToCartOptions.vue:630
+#: src/components/WCCustomProductsGridOptions.vue:717
+msgid "Settings"
+msgstr ""
+
+#: src/admin/App.vue:225
+msgid "SeedProd Logo"
+msgstr ""
+
+#: src/admin/App.vue:226
+msgid "Previous message "
+msgstr ""
+
+#: src/admin/App.vue:227
+msgid "Next message"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:449
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:450
+msgid "Search Landing Pages"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:451
+msgid ""
+"The Coming Soon Page will be available to search engines if your site is "
+"not private."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:455
+msgid "Set up a Coming Soon Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:456
+msgid "Edit Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:457
+#: src/views/Setup.vue:673
+msgid "Preview"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:458
+msgid "Active"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:459
+msgid "Inactive"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:460
+msgid "Maintenance Mode"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:461
+msgid ""
+"The Maintenance Mode Page will notify search engines that the site is "
+"unavailable."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:465
+msgid "Set up a Maintenance Mode Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:469
+#: src/admin/Subscribers-Pro.vue:252
+msgid "404 Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:470
+msgid "Replace your default theme 404 page with a custom high converting 404 page."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:474
+msgid "Set up a 404 Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:475
+#: src/admin/Subscribers-Pro.vue:253
+msgid "Landing Pages"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:476
+msgid "Add New Landing Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:477
+#: src/components/TypographyControl.vue:274
+msgid "Edit"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:479
+#: src/components/ImageCarouselOptions.vue:803
+msgid "Duplicate"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:482
+msgid "Last Modified"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:483
+msgid "You do not have any landing pages yet."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:487
+msgid "Create New Landing Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:490
+msgid "SeedProd Coming Soon Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:491
+msgid "SeedProd Maintenance Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:492
+msgid "SeedProd 404 Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:493
+msgid ""
+"Create Optin, Sales, Webinar, Thank You or any type of Landing Page you "
+"need."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:494
+#: src/admin/Subscribers-Pro.vue:262
+msgid "Login Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:495
+msgid ""
+"Create a Custom Login Page for your website. Optionally replace the default "
+"login page."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:496
+msgid "Set up a Login Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:497
+msgid "SeedProd Login Page"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:515
+#: src/views/TemplateChooser-Pro.vue:1135
+msgid "All"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:519
+msgid "Published"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:523
+msgid "Drafts"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:532
+msgid "Trash"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:539
+msgid "Move To Trash"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:543
+msgid "Restore"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:547
+msgid "Delete Permanently"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:552
+#: src/admin/Subscribers-Pro.vue:304
+#: src/components/AnchorOptions.vue:77
+#: src/components/TestimonialOptions.vue:480
+msgid "Name"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:557
+#: src/components/SocialProfilesOptions.vue:446
+msgid "URL"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:562
+#: src/components/WCCustomProductsGridOptions.vue:832
+msgid "Date"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:574
+#: src/admin/Subscribers-Pro.vue:327
+#: src/components/ListTable.vue:468
+msgid "Loading"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:783
+msgid "Pages Moved to Trash."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:816
+msgid "Pages Restored."
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:835
+#: src/admin/Subscribers-Pro.vue:399
+msgid "Are you sure?"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:841
+msgid "Yes, empty trash!"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:865
+msgid "Pages Deleted!"
+msgstr ""
+
+#: src/admin/Dashboard-Pro.vue:895
+msgid "Page Duplicated"
+msgstr ""
+
+#: src/admin/GrowthTools.vue:328
+#: src/components/ContactForm.vue:85
+#: src/components/Giveaway.vue:86
+#: src/views/SettingsAnalytics.vue:131
+#: src/views/SettingsSEO.vue:242
+msgid "Install"
+msgstr ""
+
+#: src/admin/GrowthTools.vue:331
+msgid "Deactivate"
+msgstr ""
+
+#: src/admin/GrowthTools.vue:334
+#: src/components/ContactForm.vue:86
+#: src/components/Giveaway.vue:87
+#: src/views/SettingsAnalytics.vue:132
+#: src/views/SettingsSEO.vue:243
+msgid "Activate"
+msgstr ""
+
+#: src/admin/GrowthTools.vue:64
+msgid "Status"
+msgstr ""
+
+#: src/admin/GrowthTools.vue:65
+msgid "PRO Version installed"
+msgstr ""
+
+#: src/admin/Settings.vue:19
+#: src/components/WCCustomProductsGridOptions.vue:795
+#: src/views/SettingsGeneral.vue:231
+#: src/views/SetupSettings.vue:252
+msgid "General"
+msgstr ""
+
+#: src/admin/Settings.vue:20
+msgid "Emails"
+msgstr ""
+
+#: src/admin/Settings.vue:21
+msgid "Integrations"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:211
+msgid "License"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:212
+msgid "Your license key provides access to updates and addons."
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:213
+#: src/admin/Welcome.vue:426
+msgid "You're using <strong>SeedProd Lite</strong> - No License needed. Enjoy!"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:214
+msgid ""
+"To unlock more features consider <a href='%s' target='_blank'>upgrading to "
+"PRO</a> . As a valued SeedProd Lite user you'll receive <strong>a discount "
+"off the regular price</strong>, automatically applied at checkout! "
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:215
+msgid ""
+"If you already have a license key for <a href='%s' target='_blank'>SeedProd "
+"Pro</a>, please enter it to Upgrade to the Pro Features. An External "
+"Service will be used to verify and connect you to SeedProd."
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:216
+msgid "License Key"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:217
+#: src/admin/Welcome.vue:429
+msgid "Enter Your License Key Here"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:218
+msgid "Recheck Key"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:219
+msgid "Verify Key"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:220
+msgid "Deactivate Key"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:221
+msgid "Connect to SeedProd"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:222
+msgid "You currently have the <strong>%s</strong> license."
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:224
+msgid "Debug Information"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:225
+msgid "Facebook APP ID"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:226
+#: src/views/SetupDesign-Pro.vue:787
+msgid "Global Settings"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:228
+msgid "Save Settings"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:229
+msgid "Disable Edit SeedProd Button"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:230
+#: src/components/AnimatedHeadlineOptions.vue:448
+#: src/components/FacebookCommentsOptions.vue:203
+#: src/components/FacebookEmbedOptions.vue:310
+#: src/components/FacebookLikeOptions.vue:279
+#: src/components/FacebookPageOptions.vue:257
+#: src/components/ImageCarouselOptions.vue:793
+#: src/components/TestimonialOptions.vue:485
+#: src/components/TwitterEmbedTimelineOptions.vue:428
+#: src/components/TwitterEmbedTweetOptions.vue:324
+#: src/components/TwitterFollowButtonOptions.vue:283
+#: src/components/TwitterTweetButtonOptions.vue:278
+#: src/views/SettingsAccess-Pro.vue:295
+msgid "Yes"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:231
+#: src/components/AnimatedHeadlineOptions.vue:449
+#: src/components/FacebookCommentsOptions.vue:204
+#: src/components/FacebookEmbedOptions.vue:311
+#: src/components/FacebookLikeOptions.vue:280
+#: src/components/FacebookPageOptions.vue:258
+#: src/components/ImageCarouselOptions.vue:794
+#: src/components/TestimonialOptions.vue:486
+#: src/components/TwitterEmbedTimelineOptions.vue:429
+#: src/components/TwitterEmbedTweetOptions.vue:325
+#: src/components/TwitterFollowButtonOptions.vue:284
+#: src/components/TwitterTweetButtonOptions.vue:279
+#: src/views/SettingsAccess-Pro.vue:296
+msgid "No"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:420
+#: src/views/Setup.vue:995
+msgid "Saved!"
+msgstr ""
+
+#: src/admin/SettingsGeneral.vue:441
+#: src/views/TemplateChooser-Pro.vue:1792
+msgid ""
+"Could not be saved. Please contact Support if you continue to experience "
+"this issue."
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:246
+msgid "Subscribers Overview"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:247
+msgid "Export to CSV"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:249
+msgid "All Pages"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:250
+msgid "Coming Soon Page"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:251
+msgid "Maintenance Mode Page"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:254
+msgid "Days"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:256
+msgid "You do not have any subscribers yet."
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:260
+msgid "Go to Pages"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:261
+msgid "Search Emails"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:300
+#: src/components/Form-Pro.vue:22
+#: src/components/SocialProfilesOptions.vue:445
+msgid "Email"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:314
+msgid "Created"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:321
+#: src/components/ImageCarouselOptions.vue:804
+msgid "Delete"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:437
+msgid "Subscribers Deleted"
+msgstr ""
+
+#: src/admin/Subscribers-Pro.vue:490
+msgid "Exported Started"
+msgstr ""
+
+#: src/admin/Welcome.vue:425
+msgid ""
+"Thank you for choosing SeedProd - The #1 Coming Soon Page and Maintenance "
+"Mode Plugin for WordPress."
+msgstr ""
+
+#: src/admin/Welcome.vue:427
+msgid "Enter your license key to enable all the features of the plugin."
+msgstr ""
+
+#: src/admin/Welcome.vue:428
+msgid ""
+"If you already have a license key for <a href='%s' target='_blank'>SeedProd "
+"Pro</a>, please enter it to Upgrade to the Pro Features."
+msgstr ""
+
+#: src/admin/Welcome.vue:430
+msgid "Verify key"
+msgstr ""
+
+#: src/admin/Welcome.vue:431
+msgid ""
+"Don't have a license key or need to renew? Visit <a href='%s' "
+"target='_blank'  class='sp-text-primary'>seedprod.com</a>"
+msgstr ""
+
+#: src/admin/Welcome.vue:432
+msgid ""
+"SeedProd makes it easy to create landing pages in WordPress.<br>You can "
+"watch the video tutorial or read our guide on how create your first page."
+msgstr ""
+
+#: src/admin/Welcome.vue:433
+msgid "Create Your First Page"
+msgstr ""
+
+#: src/admin/Welcome.vue:434
+msgid "Read the Full Guide"
+msgstr ""
+
+#: src/admin/Welcome.vue:435
+msgid "SeedProd Features &amp; Solutions"
+msgstr ""
+
+#: src/admin/Welcome.vue:436
+msgid ""
+"SeedProd is both easy to use and extremely powerful. We have tons of<br "
+"/>helpful features to help you create a successful landing page."
+msgstr ""
+
+#: src/admin/Welcome.vue:437
+msgid "Watch how to create your first landing page"
+msgstr ""
+
+#: src/admin/Welcome.vue:438
+msgid "Robbie the Rabbit the SeedProd mascot"
+msgstr ""
+
+#: src/admin/Welcome.vue:439
+msgid "Watch how to create your first page"
+msgstr ""
+
+#: src/admin/Welcome.vue:440
+msgid "Drag &amp; Drop Page Builder"
+msgstr ""
+
+#: src/admin/Welcome.vue:441
+msgid "Special Upgrade Offer - Save 50% Off"
+msgstr ""
+
+#: src/admin/Welcome.vue:442
+msgid "Save 20%"
+msgstr ""
+
+#: src/admin/Welcome.vue:443
+msgid "Pro"
+msgstr ""
+
+#: src/admin/Welcome.vue:444
+msgid "per year"
+msgstr ""
+
+#: src/admin/Welcome.vue:445
+msgid ""
+"\"Want to create a great looking 'coming soon' landing page and grab emails "
+"easily? Check out SeedProd\""
+msgstr ""
+
+#: src/admin/Welcome.vue:446
+msgid ""
+"Our Drag & Drop Page Builder lets you create great looking pages and "
+"layouts fast so you can get your landing page up in minutes. No coding "
+"required!"
+msgstr ""
+
+#: src/admin/Welcome.vue:447
+msgid "Upgrade to SeedProd Pro<br />Today and Save"
+msgstr ""
+
+#: src/admin/Welcome.vue:448
+msgid "Upgrade to PRO Now"
+msgstr ""
+
+#: src/admin/Welcome.vue:449
+#: src/components/BulletListOptions.vue:398
+msgid "List"
+msgstr ""
+
+#: src/admin/Welcome.vue:450
+msgid ""
+"\"Just gotta say how awesome SeedProd really is! WordPress freelancers "
+"really need this in their repertoire!\""
+msgstr ""
+
+#: src/admin/Welcome.vue:451
+msgid "Landing Page Templates"
+msgstr ""
+
+#: src/admin/Welcome.vue:452
+msgid ""
+"Create a variety of landing pages including sales, optin, coming soon, "
+"maintenance mode, webinar, and thank you pages. New templates added "
+"regularly."
+msgstr ""
+
+#: src/admin/Welcome.vue:453
+#: src/components/LiteCTATemplates.vue:67
+msgid "Smart Sections"
+msgstr ""
+
+#: src/admin/Welcome.vue:454
+msgid ""
+"We created professionally designed pre-built sections like headers, calls "
+"to action, so you don't need to be a designer to create beautiful layouts."
+msgstr ""
+
+#: src/admin/Welcome.vue:455
+msgid "Premium Integrations"
+msgstr ""
+
+#: src/admin/Welcome.vue:456
+msgid ""
+"Collect emails with your favorite 3rd party email marketing service "
+"providers including MailChimp, ActiveCampaign, ConvertKit, Constant Contact "
+"and more..."
+msgstr ""
+
+#: src/admin/Welcome.vue:457
+msgid "No Coding Skills Needed"
+msgstr ""
+
+#: src/admin/Welcome.vue:458
+msgid ""
+"We've eliminated all the technical barries that keep you from building the "
+"perfect landing page."
+msgstr ""
+
+#: src/admin/Welcome.vue:459
+msgid "Super Fast Loading Pages"
+msgstr ""
+
+#: src/admin/Welcome.vue:460
+msgid ""
+"Bloat free code results in faster loading pages which means your page "
+"converts higher."
+msgstr ""
+
+#: src/admin/Welcome.vue:461
+#: src/components/LiteCTABuilder.vue:59
+#: src/components/LiteCTATemplates.vue:58
+#: src/components/LiteCTAUpgrade.vue:59
+#: src/components/UpgradeCTABuilder.vue:58
+msgid "Drag & Drop Page Builder"
+msgstr ""
+
+#: src/admin/Welcome.vue:462
+#: src/components/LiteCTABuilder.vue:60
+#: src/components/LiteCTAUpgrade.vue:60
+#: src/components/SettingsLiteCTA.vue:167
+#: src/components/UpgradeCTABuilder.vue:59
+msgid "20+ PRO Page Blocks"
+msgstr ""
+
+#: src/admin/Welcome.vue:463
+#: src/components/SettingsLiteCTA.vue:168
+msgid "Email Marketing Integrations"
+msgstr ""
+
+#: src/admin/Welcome.vue:467
+#: src/components/LiteCTABuilder.vue:65
+#: src/components/LiteCTAUpgrade.vue:65
+#: src/components/SettingsLiteCTA.vue:172
+#: src/components/UpgradeCTABuilder.vue:64
+msgid "Custom 404 Pages"
+msgstr ""
+
+#: src/admin/Welcome.vue:468
+#: src/components/LiteCTABuilder.vue:66
+#: src/components/LiteCTAUpgrade.vue:66
+#: src/components/UpgradeCTABuilder.vue:65
+msgid "Page Access Controls"
+msgstr ""
+
+#: src/admin/Welcome.vue:469
+#: src/components/LiteCTABuilder.vue:67
+#: src/components/LiteCTAUpgrade.vue:67
+#: src/components/SettingsLiteCTA.vue:174
+#: src/components/UpgradeCTABuilder.vue:66
+msgid "100+ PRO Page Templates"
+msgstr ""
+
+#: src/admin/Welcome.vue:470
+#: src/components/LiteCTABuilder.vue:68
+#: src/components/LiteCTAUpgrade.vue:68
+#: src/components/SettingsLiteCTA.vue:175
+#: src/components/UpgradeCTABuilder.vue:67
+msgid "PRO Smart Sections"
+msgstr ""
+
+#: src/admin/Welcome.vue:474
+#: src/components/SettingsLiteCTA.vue:179
+msgid "Subscriber Management"
+msgstr ""
+
+#: src/admin/Welcome.vue:475
+#: src/components/LiteCTABuilder.vue:73
+#: src/components/LiteCTAUpgrade.vue:73
+#: src/components/SettingsLiteCTA.vue:180
+#: src/components/UpgradeCTABuilder.vue:72
+#: src/views/TemplateChooser-Pro.vue:1131
+msgid "Saved Templates"
+msgstr ""
+
+#: src/admin/Welcome.vue:476
+#: src/components/LiteCTABuilder.vue:74
+#: src/components/LiteCTATemplates.vue:73
+#: src/components/LiteCTAUpgrade.vue:74
+#: src/components/SettingsLiteCTA.vue:181
+#: src/components/UpgradeCTABuilder.vue:73
+msgid "Plus much more..."
+msgstr ""
+
+#: src/components/AccordionOptions.vue:505
+#: src/components/AnimatedHeadlineOptions.vue:397
+#: src/components/BulletListOptions.vue:396
+#: src/components/ButtonOptions.vue:548
+#: src/components/ColOptions.vue:497
+#: src/components/ContactFormOptions.vue:222
+#: src/components/CountdownOptions.vue:574
+#: src/components/CustomHTMLOptions.vue:154
+#: src/components/DividerOptions.vue:187
+#: src/components/FacebookCommentsOptions.vue:213
+#: src/components/FacebookEmbedOptions.vue:320
+#: src/components/FacebookLikeOptions.vue:289
+#: src/components/FacebookPageOptions.vue:267
+#: src/components/FeatureOptions.vue:364
+#: src/components/FormOptions.vue:176
+#: src/components/GiveawayOptions.vue:134
+#: src/components/GoogleMapsOptions.vue:192
+#: src/components/HeaderOptions.vue:331
+#: src/components/IconFeatureOptions.vue:365
+#: src/components/IconOptions.vue:176
+#: src/components/ImageCarouselOptions.vue:783
+#: src/components/ImageOptions.vue:524
+#: src/components/LoginOptions.vue:675
+#: src/components/NavOptions.vue:326
+#: src/components/OptinFormOptions.vue:663
+#: src/components/PricingTableOptions.vue:945
+#: src/components/ProgressBarOptions.vue:267
+#: src/components/RowOptions.vue:170
+#: src/components/SectionOptions.vue:255
+#: src/components/ShortcodeOptions.vue:105
+#: src/components/SocialSharingOptions.vue:300
+#: src/components/StarRatingOptions.vue:204
+#: src/components/TestimonialOptions.vue:475
+#: src/components/TextOptions.vue:283
+#: src/components/TwitterEmbedTimelineOptions.vue:438
+#: src/components/TwitterEmbedTweetOptions.vue:334
+#: src/components/TwitterFollowButtonOptions.vue:293
+#: src/components/TwitterTweetButtonOptions.vue:288
+#: src/components/VideoOptions.vue:178
+#: src/components/WCAddToCartOptions.vue:581
+#: src/components/WCCustomProductsGridOptions.vue:765
+msgid "Content"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:506
+#: src/components/AnimatedHeadlineOptions.vue:398
+#: src/components/BulletListOptions.vue:397
+#: src/components/ButtonOptions.vue:549
+#: src/components/ColOptions.vue:514
+#: src/components/ContactFormOptions.vue:223
+#: src/components/CountdownOptions.vue:576
+#: src/components/CustomHTMLOptions.vue:155
+#: src/components/DividerOptions.vue:188
+#: src/components/FacebookCommentsOptions.vue:214
+#: src/components/FacebookEmbedOptions.vue:321
+#: src/components/FacebookLikeOptions.vue:290
+#: src/components/FacebookPageOptions.vue:268
+#: src/components/FeatureOptions.vue:365
+#: src/components/FormOptions.vue:177
+#: src/components/GiveawayOptions.vue:135
+#: src/components/GoogleMapsOptions.vue:193
+#: src/components/HeaderOptions.vue:332
+#: src/components/IconFeatureOptions.vue:366
+#: src/components/IconOptions.vue:177
+#: src/components/ImageCarouselOptions.vue:784
+#: src/components/ImageOptions.vue:526
+#: src/components/LoginOptions.vue:676
+#: src/components/NavOptions.vue:327
+#: src/components/OptinFormOptions.vue:665
+#: src/components/PricingTableOptions.vue:946
+#: src/components/ProgressBarOptions.vue:269
+#: src/components/RowOptions.vue:171
+#: src/components/SectionOptions.vue:256
+#: src/components/ShortcodeOptions.vue:106
+#: src/components/SocialSharingOptions.vue:301
+#: src/components/StarRatingOptions.vue:205
+#: src/components/TestimonialOptions.vue:476
+#: src/components/TextOptions.vue:284
+#: src/components/TwitterEmbedTimelineOptions.vue:439
+#: src/components/TwitterEmbedTweetOptions.vue:335
+#: src/components/TwitterFollowButtonOptions.vue:294
+#: src/components/TwitterTweetButtonOptions.vue:289
+#: src/components/VideoOptions.vue:179
+#: src/components/WCAddToCartOptions.vue:582
+#: src/components/WCCartOptions.vue:414
+#: src/components/WCCheckoutOptions.vue:627
+#: src/components/WCCustomProductsGridOptions.vue:718
+#: src/views/SetupBlockOptions-Pro.vue:831
+msgid "Advanced"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:507
+msgid "Accordion"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:508
+#: src/components/BulletListOptions.vue:399
+#: src/components/FormOptions.vue:179
+#: src/components/NavOptions.vue:329
+#: src/components/PricingTableOptions.vue:948
+msgid "Add New Item"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:509
+#: src/components/AnimatedHeadlineOptions.vue:404
+#: src/components/BulletListOptions.vue:400
+#: src/components/HeaderOptions.vue:338
+#: src/components/NavOptions.vue:330
+#: src/components/TextOptions.vue:289
+#: src/components/TypographyControl.vue:277
+msgid "Font Size"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:510
+#: src/components/BulletListOptions.vue:401
+#: src/components/ColOptions.vue:526
+#: src/components/CountdownOptions.vue:605
+#: src/components/NavOptions.vue:331
+#: src/components/PricingTableOptions.vue:1007
+#: src/components/SocialProfilesOptions.vue:458
+#: src/components/SocialSharingOptions.vue:322
+#: src/components/StarRatingOptions.vue:213
+msgid "Space Between"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:511
+#: src/components/AnimatedHeadlineOptions.vue:403
+#: src/components/BulletListOptions.vue:402
+#: src/components/ButtonOptions.vue:553
+#: src/components/CountdownOptions.vue:585
+#: src/components/DividerOptions.vue:198
+#: src/components/FacebookCommentsOptions.vue:232
+#: src/components/FacebookEmbedOptions.vue:339
+#: src/components/FacebookLikeOptions.vue:308
+#: src/components/FacebookPageOptions.vue:286
+#: src/components/FeatureOptions.vue:357
+#: src/components/GoogleMapsOptions.vue:196
+#: src/components/HeaderOptions.vue:337
+#: src/components/IconFeatureOptions.vue:358
+#: src/components/IconOptions.vue:180
+#: src/components/ImageOptions.vue:537
+#: src/components/LoginOptions.vue:678
+#: src/components/NavOptions.vue:332
+#: src/components/OptinFormOptions.vue:682
+#: src/components/PricingTableOptions.vue:1008
+#: src/components/SocialProfilesOptions.vue:454
+#: src/components/SocialSharingOptions.vue:321
+#: src/components/StarRatingOptions.vue:207
+#: src/components/TestimonialOptions.vue:471
+#: src/components/TextOptions.vue:288
+#: src/components/TwitterEmbedTimelineOptions.vue:457
+#: src/components/TwitterEmbedTweetOptions.vue:353
+#: src/components/TwitterFollowButtonOptions.vue:312
+#: src/components/TwitterTweetButtonOptions.vue:307
+#: src/components/VideoOptions.vue:188
+#: src/components/WCAddToCartOptions.vue:586
+msgid "Align"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:512
+#: src/components/AnimatedHeadlineOptions.vue:400
+#: src/components/BulletListOptions.vue:403
+#: src/components/ButtonOptions.vue:554
+#: src/components/CountdownOptions.vue:615
+#: src/components/DividerOptions.vue:190
+#: src/components/FacebookCommentsOptions.vue:216
+#: src/components/FacebookEmbedOptions.vue:323
+#: src/components/FacebookLikeOptions.vue:292
+#: src/components/FacebookPageOptions.vue:270
+#: src/components/GoogleMapsOptions.vue:194
+#: src/components/HeaderOptions.vue:334
+#: src/components/IconOptions.vue:178
+#: src/components/ImageOptions.vue:529
+#: src/components/ProgressBarOptions.vue:287
+#: src/components/RowOptions.vue:173
+#: src/components/SocialProfilesOptions.vue:465
+#: src/components/SocialSharingOptions.vue:304
+#: src/components/StarRatingOptions.vue:208
+#: src/components/TextOptions.vue:286
+#: src/components/TwitterEmbedTimelineOptions.vue:441
+#: src/components/TwitterEmbedTweetOptions.vue:337
+#: src/components/TwitterFollowButtonOptions.vue:296
+#: src/components/TwitterTweetButtonOptions.vue:291
+#: src/components/VideoOptions.vue:181
+#: src/components/WCAddToCartOptions.vue:587
+#: src/components/WCCartOptions.vue:412
+#: src/components/WCCheckoutOptions.vue:625
+#: src/components/WCCustomProductsGridOptions.vue:716
+msgid "Styles"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:513
+#: src/components/BulletListOptions.vue:404
+#: src/components/NavOptions.vue:334
+msgid "List Layout"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:514
+#: src/components/BulletListOptions.vue:405
+#: src/components/ColOptions.vue:516
+#: src/components/NavOptions.vue:335
+msgid "Vertical"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:515
+#: src/components/BulletListOptions.vue:406
+#: src/components/ColOptions.vue:515
+#: src/components/NavOptions.vue:336
+msgid "Horizontal"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:516
+#: src/components/BulletListOptions.vue:407
+#: src/components/ContactFormOptions.vue:226
+#: src/components/GiveawayOptions.vue:138
+#: src/components/NavOptions.vue:337
+#: src/components/StarRatingOptions.vue:215
+#: src/components/WCCartOptions.vue:456
+#: src/components/WCCheckoutOptions.vue:669
+#: src/components/WCCustomProductsGridOptions.vue:760
+msgid "Text Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:517
+#: src/components/BulletListOptions.vue:408
+#: src/components/SpacingSectionControl.vue:63
+#: src/components/WCCustomProductsGridOptions.vue:767
+msgid "Spacing"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:518
+#: src/components/BulletListOptions.vue:409
+#: src/components/SpacingSectionControl.vue:64
+msgid "Top Margin"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:519
+#: src/components/AnimatedHeadlineOptions.vue:402
+#: src/components/BulletListOptions.vue:410
+#: src/components/FeatureOptions.vue:360
+#: src/components/HeaderOptions.vue:336
+#: src/components/IconFeatureOptions.vue:361
+#: src/components/ImageCarouselOptions.vue:785
+#: src/components/NavOptions.vue:338
+#: src/components/PricingTableOptions.vue:959
+#: src/components/TestimonialOptions.vue:477
+#: src/components/TextOptions.vue:287
+#: src/components/TwitterTweetButtonOptions.vue:297
+#: src/views/SetupDesign-Pro.vue:803
+msgid "Text"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:520
+#: src/components/BulletListOptions.vue:411
+#: src/components/FeatureOptions.vue:354
+#: src/components/IconFeatureOptions.vue:355
+#: src/components/IconOptions.vue:179
+#: src/components/ImageCarouselOptions.vue:776
+#: src/components/PricingTableOptions.vue:960
+#: src/components/SocialProfilesOptions.vue:464
+#: src/components/TestimonialOptions.vue:468
+msgid "Icon"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:521
+#: src/components/BulletListOptions.vue:412
+#: src/components/ButtonOptions.vue:567
+#: src/components/CountdownOptions.vue:601
+#: src/components/ImageCarouselOptions.vue:830
+#: src/components/ImageOptions.vue:538
+#: src/components/OptinFormOptions.vue:690
+#: src/components/ProgressBarOptions.vue:273
+#: src/components/SocialProfilesOptions.vue:432
+#: src/components/WCAddToCartOptions.vue:600
+#: src/components/WCCartOptions.vue:422
+#: src/components/WCCheckoutOptions.vue:635
+#: src/components/WCCustomProductsGridOptions.vue:726
+msgid "Choose Your Style"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:522
+msgid "Closed Icon Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:523
+msgid "Closed Icon"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:524
+msgid "Open Icon Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:525
+msgid "Open Icon"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:526
+#: src/components/FeatureOptions.vue:363
+#: src/components/IconFeatureOptions.vue:364
+#: src/components/WCCartOptions.vue:460
+#: src/components/WCCheckoutOptions.vue:673
+#: src/components/WCCustomProductsGridOptions.vue:764
+msgid "Header Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:527
+#: src/components/PricingTableOptions.vue:967
+msgid "Header Open Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:528
+#: src/components/PricingTableOptions.vue:968
+msgid "Divider Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:529
+#: src/components/AnimatedHeadlineOptions.vue:418
+#: src/components/BackgroundControl.vue:190
+#: src/components/ButtonOptions.vue:586
+#: src/components/ColOptions.vue:508
+#: src/components/FacebookCommentsOptions.vue:245
+#: src/components/FacebookEmbedOptions.vue:352
+#: src/components/FacebookLikeOptions.vue:321
+#: src/components/FacebookPageOptions.vue:299
+#: src/components/FeatureOptions.vue:361
+#: src/components/HeaderOptions.vue:352
+#: src/components/IconFeatureOptions.vue:362
+#: src/components/ImageCarouselOptions.vue:780
+#: src/components/OptinFormOptions.vue:701
+#: src/components/PricingTableOptions.vue:1003
+#: src/components/ProgressBarOptions.vue:286
+#: src/components/RowOptions.vue:184
+#: src/components/SectionOptions.vue:253
+#: src/components/TestimonialOptions.vue:472
+#: src/components/TextOptions.vue:299
+#: src/components/TwitterEmbedTimelineOptions.vue:468
+#: src/components/TwitterEmbedTweetOptions.vue:363
+#: src/components/TwitterFollowButtonOptions.vue:323
+#: src/components/TwitterTweetButtonOptions.vue:318
+#: src/components/WCAddToCartOptions.vue:619
+#: src/components/WCCartOptions.vue:455
+#: src/components/WCCheckoutOptions.vue:668
+#: src/components/WCCustomProductsGridOptions.vue:759
+msgid "Background Color"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:530
+#: src/components/AnimatedHeadlineOptions.vue:410
+#: src/components/BulletListOptions.vue:414
+#: src/components/ButtonOptions.vue:584
+#: src/components/ColOptions.vue:500
+#: src/components/FacebookCommentsOptions.vue:247
+#: src/components/FacebookEmbedOptions.vue:354
+#: src/components/FacebookLikeOptions.vue:323
+#: src/components/FacebookPageOptions.vue:301
+#: src/components/HeaderOptions.vue:344
+#: src/components/NavOptions.vue:342
+#: src/components/PricingTableOptions.vue:1024
+#: src/components/ProgressBarOptions.vue:276
+#: src/components/TextOptions.vue:290
+#: src/components/TwitterEmbedTimelineOptions.vue:470
+#: src/components/TwitterEmbedTweetOptions.vue:365
+#: src/components/TwitterFollowButtonOptions.vue:325
+#: src/components/TwitterTweetButtonOptions.vue:320
+#: src/components/WCAddToCartOptions.vue:617
+msgid "Text Shadow"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:538
+#: src/components/BulletListOptions.vue:422
+#: src/components/PaddingControl.vue:114
+#: src/components/PricingTableOptions.vue:1032
+msgid "Padding"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:539
+#: src/components/BorderRadiusControl.vue:129
+#: src/components/BorderWidthControl.vue:121
+#: src/components/BulletListOptions.vue:423
+#: src/components/ImageCarouselOptions.vue:826
+#: src/components/ImageOptions.vue:531
+#: src/components/PaddingControl.vue:115
+#: src/components/PricingTableOptions.vue:1033
+#: src/components/WCCustomProductsGridOptions.vue:825
+msgid "Top"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:540
+#: src/components/BorderRadiusControl.vue:132
+#: src/components/BorderWidthControl.vue:123
+#: src/components/BulletListOptions.vue:424
+#: src/components/ImageCarouselOptions.vue:828
+#: src/components/ImageOptions.vue:533
+#: src/components/PaddingControl.vue:117
+#: src/components/PricingTableOptions.vue:1034
+#: src/components/WCCustomProductsGridOptions.vue:827
+msgid "Bottom"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:541
+#: src/components/BorderRadiusControl.vue:131
+#: src/components/BorderWidthControl.vue:122
+#: src/components/BulletListOptions.vue:425
+#: src/components/ImageCarouselOptions.vue:827
+#: src/components/ImageOptions.vue:532
+#: src/components/PaddingControl.vue:116
+#: src/components/PricingTableOptions.vue:1035
+#: src/components/WCCustomProductsGridOptions.vue:826
+msgid "Right"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:542
+#: src/components/BorderRadiusControl.vue:130
+#: src/components/BorderWidthControl.vue:124
+#: src/components/BulletListOptions.vue:426
+#: src/components/ImageCarouselOptions.vue:829
+#: src/components/ImageOptions.vue:534
+#: src/components/PaddingControl.vue:118
+#: src/components/PricingTableOptions.vue:1036
+#: src/components/WCCustomProductsGridOptions.vue:828
+msgid "Left"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:543
+#: src/components/ButtonOptions.vue:585
+#: src/components/CountdownOptions.vue:607
+#: src/components/DividerOptions.vue:199
+#: src/components/FacebookCommentsOptions.vue:244
+#: src/components/FacebookEmbedOptions.vue:351
+#: src/components/FacebookLikeOptions.vue:320
+#: src/components/FacebookPageOptions.vue:298
+#: src/components/GoogleMapsOptions.vue:197
+#: src/components/IconOptions.vue:182
+#: src/components/ImageCarouselOptions.vue:808
+#: src/components/ImageOptions.vue:539
+#: src/components/PricingTableOptions.vue:1037
+#: src/components/ProgressBarOptions.vue:284
+#: src/components/RowOptions.vue:176
+#: src/components/SectionOptions.vue:240
+#: src/components/SocialProfilesOptions.vue:459
+#: src/components/SocialSharingOptions.vue:323
+#: src/components/TextOptions.vue:298
+#: src/components/TwitterEmbedTimelineOptions.vue:467
+#: src/components/TwitterEmbedTweetOptions.vue:362
+#: src/components/TwitterFollowButtonOptions.vue:322
+#: src/components/TwitterTweetButtonOptions.vue:317
+#: src/components/VideoOptions.vue:189
+#: src/components/WCAddToCartOptions.vue:618
+#: src/components/WCCustomProductsGridOptions.vue:810
+msgid "Shadow"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:544
+#: src/components/AnimatedHeadlineOptions.vue:411
+#: src/components/BulletListOptions.vue:415
+#: src/components/ButtonOptions.vue:587
+#: src/components/ColOptions.vue:501
+#: src/components/CountdownOptions.vue:608
+#: src/components/DividerOptions.vue:200
+#: src/components/FacebookCommentsOptions.vue:237
+#: src/components/FacebookEmbedOptions.vue:344
+#: src/components/FacebookLikeOptions.vue:313
+#: src/components/FacebookPageOptions.vue:291
+#: src/components/GoogleMapsOptions.vue:198
+#: src/components/HeaderOptions.vue:345
+#: src/components/IconOptions.vue:183
+#: src/components/ImageCarouselOptions.vue:809
+#: src/components/ImageOptions.vue:540
+#: src/components/NavOptions.vue:343
+#: src/components/PricingTableOptions.vue:1038
+#: src/components/ProgressBarOptions.vue:277
+#: src/components/RowOptions.vue:177
+#: src/components/SectionOptions.vue:241
+#: src/components/SocialProfilesOptions.vue:460
+#: src/components/SocialSharingOptions.vue:314
+#: src/components/TextOptions.vue:291
+#: src/components/VideoOptions.vue:190
+#: src/components/WCAddToCartOptions.vue:620
+#: src/components/WCCustomProductsGridOptions.vue:815
+msgid "None"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:545
+#: src/components/AnimatedHeadlineOptions.vue:412
+#: src/components/BulletListOptions.vue:416
+#: src/components/ButtonOptions.vue:588
+#: src/components/ColOptions.vue:502
+#: src/components/CountdownOptions.vue:609
+#: src/components/DividerOptions.vue:201
+#: src/components/FacebookCommentsOptions.vue:238
+#: src/components/FacebookEmbedOptions.vue:345
+#: src/components/FacebookLikeOptions.vue:314
+#: src/components/FacebookPageOptions.vue:292
+#: src/components/GoogleMapsOptions.vue:199
+#: src/components/HeaderOptions.vue:346
+#: src/components/IconOptions.vue:184
+#: src/components/ImageCarouselOptions.vue:810
+#: src/components/ImageOptions.vue:541
+#: src/components/NavOptions.vue:344
+#: src/components/PricingTableOptions.vue:1039
+#: src/components/ProgressBarOptions.vue:278
+#: src/components/RowOptions.vue:178
+#: src/components/SectionOptions.vue:242
+#: src/components/SocialProfilesOptions.vue:461
+#: src/components/SocialSharingOptions.vue:315
+#: src/components/TextOptions.vue:292
+#: src/components/TwitterEmbedTimelineOptions.vue:461
+#: src/components/TwitterEmbedTweetOptions.vue:356
+#: src/components/TwitterFollowButtonOptions.vue:316
+#: src/components/TwitterTweetButtonOptions.vue:311
+#: src/components/VideoOptions.vue:191
+#: src/components/WCAddToCartOptions.vue:621
+#: src/components/WCCustomProductsGridOptions.vue:816
+msgid "Hairline"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:546
+#: src/components/AnimatedHeadlineOptions.vue:413
+#: src/components/BulletListOptions.vue:417
+#: src/components/ButtonOptions.vue:589
+#: src/components/ColOptions.vue:503
+#: src/components/CountdownOptions.vue:610
+#: src/components/DividerOptions.vue:202
+#: src/components/FacebookCommentsOptions.vue:239
+#: src/components/FacebookEmbedOptions.vue:346
+#: src/components/FacebookLikeOptions.vue:315
+#: src/components/FacebookPageOptions.vue:293
+#: src/components/GoogleMapsOptions.vue:200
+#: src/components/HeaderOptions.vue:347
+#: src/components/IconOptions.vue:185
+#: src/components/ImageCarouselOptions.vue:811
+#: src/components/ImageOptions.vue:542
+#: src/components/LoginOptions.vue:722
+#: src/components/NavOptions.vue:345
+#: src/components/OptinFormOptions.vue:677
+#: src/components/PricingTableOptions.vue:1040
+#: src/components/ProgressBarOptions.vue:279
+#: src/components/RowOptions.vue:179
+#: src/components/SectionOptions.vue:243
+#: src/components/SocialProfilesOptions.vue:451
+#: src/components/SocialSharingOptions.vue:316
+#: src/components/TextOptions.vue:293
+#: src/components/TwitterEmbedTimelineOptions.vue:462
+#: src/components/TwitterEmbedTweetOptions.vue:357
+#: src/components/TwitterFollowButtonOptions.vue:317
+#: src/components/TwitterTweetButtonOptions.vue:312
+#: src/components/VideoOptions.vue:192
+#: src/components/WCAddToCartOptions.vue:622
+#: src/components/WCCustomProductsGridOptions.vue:817
+msgid "Small"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:547
+#: src/components/AnimatedHeadlineOptions.vue:414
+#: src/components/BulletListOptions.vue:418
+#: src/components/ButtonOptions.vue:590
+#: src/components/ColOptions.vue:504
+#: src/components/CountdownOptions.vue:611
+#: src/components/DividerOptions.vue:203
+#: src/components/FacebookCommentsOptions.vue:240
+#: src/components/FacebookEmbedOptions.vue:347
+#: src/components/FacebookLikeOptions.vue:316
+#: src/components/FacebookPageOptions.vue:294
+#: src/components/GoogleMapsOptions.vue:201
+#: src/components/HeaderOptions.vue:348
+#: src/components/IconOptions.vue:186
+#: src/components/ImageCarouselOptions.vue:812
+#: src/components/ImageOptions.vue:543
+#: src/components/LoginOptions.vue:723
+#: src/components/NavOptions.vue:346
+#: src/components/OptinFormOptions.vue:678
+#: src/components/PricingTableOptions.vue:1041
+#: src/components/ProgressBarOptions.vue:280
+#: src/components/RowOptions.vue:180
+#: src/components/SectionOptions.vue:244
+#: src/components/SocialProfilesOptions.vue:452
+#: src/components/SocialSharingOptions.vue:317
+#: src/components/TextOptions.vue:294
+#: src/components/TwitterEmbedTimelineOptions.vue:463
+#: src/components/TwitterEmbedTweetOptions.vue:358
+#: src/components/TwitterFollowButtonOptions.vue:318
+#: src/components/TwitterTweetButtonOptions.vue:313
+#: src/components/VideoOptions.vue:193
+#: src/components/WCAddToCartOptions.vue:623
+#: src/components/WCCustomProductsGridOptions.vue:818
+msgid "Medium"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:548
+#: src/components/AnimatedHeadlineOptions.vue:415
+#: src/components/BulletListOptions.vue:419
+#: src/components/ButtonOptions.vue:591
+#: src/components/ColOptions.vue:505
+#: src/components/CountdownOptions.vue:612
+#: src/components/DividerOptions.vue:204
+#: src/components/FacebookCommentsOptions.vue:241
+#: src/components/FacebookEmbedOptions.vue:348
+#: src/components/FacebookLikeOptions.vue:317
+#: src/components/FacebookPageOptions.vue:295
+#: src/components/GoogleMapsOptions.vue:202
+#: src/components/HeaderOptions.vue:349
+#: src/components/IconOptions.vue:187
+#: src/components/ImageCarouselOptions.vue:813
+#: src/components/ImageOptions.vue:544
+#: src/components/LoginOptions.vue:724
+#: src/components/NavOptions.vue:347
+#: src/components/OptinFormOptions.vue:679
+#: src/components/PricingTableOptions.vue:1042
+#: src/components/ProgressBarOptions.vue:281
+#: src/components/RowOptions.vue:181
+#: src/components/SectionOptions.vue:245
+#: src/components/SocialProfilesOptions.vue:453
+#: src/components/SocialSharingOptions.vue:318
+#: src/components/TextOptions.vue:295
+#: src/components/TwitterEmbedTimelineOptions.vue:464
+#: src/components/TwitterEmbedTweetOptions.vue:359
+#: src/components/TwitterFollowButtonOptions.vue:319
+#: src/components/TwitterTweetButtonOptions.vue:314
+#: src/components/VideoOptions.vue:194
+#: src/components/WCAddToCartOptions.vue:624
+#: src/components/WCCustomProductsGridOptions.vue:819
+msgid "Large"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:549
+#: src/components/AnimatedHeadlineOptions.vue:416
+#: src/components/BulletListOptions.vue:420
+#: src/components/ButtonOptions.vue:592
+#: src/components/ColOptions.vue:506
+#: src/components/CountdownOptions.vue:613
+#: src/components/FacebookCommentsOptions.vue:242
+#: src/components/FacebookEmbedOptions.vue:349
+#: src/components/FacebookLikeOptions.vue:318
+#: src/components/FacebookPageOptions.vue:296
+#: src/components/GoogleMapsOptions.vue:203
+#: src/components/HeaderOptions.vue:350
+#: src/components/IconOptions.vue:188
+#: src/components/ImageCarouselOptions.vue:814
+#: src/components/ImageOptions.vue:545
+#: src/components/LoginOptions.vue:725
+#: src/components/NavOptions.vue:348
+#: src/components/OptinFormOptions.vue:680
+#: src/components/PricingTableOptions.vue:1043
+#: src/components/ProgressBarOptions.vue:282
+#: src/components/RowOptions.vue:182
+#: src/components/SectionOptions.vue:246
+#: src/components/SocialProfilesOptions.vue:462
+#: src/components/SocialSharingOptions.vue:319
+#: src/components/TextOptions.vue:296
+#: src/components/TwitterEmbedTimelineOptions.vue:465
+#: src/components/TwitterEmbedTweetOptions.vue:360
+#: src/components/TwitterFollowButtonOptions.vue:320
+#: src/components/TwitterTweetButtonOptions.vue:315
+#: src/components/VideoOptions.vue:195
+#: src/components/WCAddToCartOptions.vue:625
+#: src/components/WCCustomProductsGridOptions.vue:820
+msgid "X Large"
+msgstr ""
+
+#: src/components/AccordionOptions.vue:550
+#: src/components/AnimatedHeadlineOptions.vue:417
+#: src/components/BulletListOptions.vue:421
+#: src/components/ButtonOptions.vue:593
+#: src/components/ColOptions.vue:507
+#: src/components/CountdownOptions.vue:614
+#: src/components/FacebookCommentsOptions.vue:243
+#: src/components/FacebookEmbedOptions.vue:350
+#: src/components/FacebookLikeOptions.vue:319
+#: src/components/FacebookPageOptions.vue:297
+#: src/components/GoogleMapsOptions.vue:204
+#: src/components/HeaderOptions.vue:351
+#: src/components/IconOptions.vue:189
+#: src/components/ImageCarouselOptions.vue:815
+#: src/components/ImageOptions.vue:546
+#: src/components/LoginOptions.vue:726
+#: src/components/NavOptions.vue:349
+#: src/components/OptinFormOptions.vue:681
+#: src/components/PricingTableOptions.vue:1044
+#: src/components/ProgressBarOptions.vue:283
+#: src/components/RowOptions.vue:183
+#: src/components/SectionOptions.vue:247
+#: src/components/SocialSharingOptions.vue:320
+#: src/components/TextOptions.vue:297
+#: src/components/TwitterEmbedTimelineOptions.vue:466
+#: src/components/TwitterEmbedTweetOptions.vue:361
+#: src/components/TwitterFollowButtonOptions.vue:321
+#: src/components/TwitterTweetButtonOptions.vue:316
+#: src/components/VideoOptions.vue:196
+#: src/components/WCAddToCartOptions.vue:626
+#: src/components/WCCustomProductsGridOptions.vue:821
+msgid "2X Large"
+msgstr ""
+
+#: src/components/Anchor-Pro.vue:26
+#: src/components/AnchorOptions.vue:76
+msgid "Anchor"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:399
+#: src/components/HeaderOptions.vue:333
+msgid "Headline"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:401
+#: src/components/ButtonOptions.vue:562
+#: src/components/HeaderOptions.vue:335
+#: src/components/WCAddToCartOptions.vue:595
+msgid "Icons"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:405
+#: src/components/FeatureOptions.vue:359
+#: src/components/HeaderOptions.vue:339
+#: src/components/IconFeatureOptions.vue:360
+msgid "Level"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:406
+#: src/components/HeaderOptions.vue:340
+msgid "h1"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:407
+#: src/components/HeaderOptions.vue:341
+msgid "h2"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:408
+#: src/components/HeaderOptions.vue:342
+msgid "h3"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:409
+#: src/components/HeaderOptions.vue:343
+msgid "h4"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:419
+#: src/components/ButtonOptions.vue:563
+#: src/components/HeaderOptions.vue:353
+#: src/components/OptinFormOptions.vue:699
+#: src/components/WCAddToCartOptions.vue:596
+msgid "Before Text Icon"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:420
+#: src/components/ButtonOptions.vue:564
+#: src/components/HeaderOptions.vue:354
+#: src/components/OptinFormOptions.vue:700
+#: src/components/WCAddToCartOptions.vue:597
+msgid "After Text Icon"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:421
+#: src/components/DividerOptions.vue:205
+#: src/components/FacebookCommentsOptions.vue:246
+#: src/components/FacebookEmbedOptions.vue:353
+#: src/components/FacebookLikeOptions.vue:322
+#: src/components/FacebookPageOptions.vue:300
+#: src/components/FeatureOptions.vue:362
+#: src/components/HeaderOptions.vue:355
+#: src/components/IconFeatureOptions.vue:363
+#: src/components/IconOptions.vue:190
+#: src/components/ImageCarouselOptions.vue:781
+#: src/components/ProgressBarOptions.vue:285
+#: src/components/TestimonialOptions.vue:473
+#: src/components/TextOptions.vue:300
+#: src/components/TwitterEmbedTimelineOptions.vue:469
+#: src/components/TwitterEmbedTweetOptions.vue:364
+#: src/components/TwitterFollowButtonOptions.vue:324
+#: src/components/TwitterTweetButtonOptions.vue:319
+msgid "Color"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:422
+msgid "Before Headline"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:423
+msgid "After Headline"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:424
+#: src/components/DividerOptions.vue:191
+#: src/components/SocialProfilesOptions.vue:447
+#: src/components/TypographyControl.vue:280
+msgid "Style"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:425
+msgid "Highlighted"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:426
+msgid "Rotating"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:427
+msgid "Shape"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:428
+msgid "Circle"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:429
+msgid "Curly"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:430
+msgid "Underline"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:431
+#: src/components/DividerOptions.vue:195
+msgid "Double"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:432
+msgid "Double Underline"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:433
+msgid "Underline Zipzag"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:434
+msgid "Diagonal"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:435
+msgid "Strikethrough"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:436
+msgid "X"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:437
+msgid "Animation"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:438
+msgid "Typing"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:439
+msgid "Clip"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:440
+msgid "Flip"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:441
+msgid "Bounce"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:442
+msgid "Roll"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:443
+#: src/components/GoogleMapsOptions.vue:190
+msgid "Zoom"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:444
+msgid "Fade"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:445
+msgid "Light Speed"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:446
+msgid "Slide Down"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:447
+msgid "Infinite Loop"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:450
+msgid "Duration (ms)"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:451
+msgid "Delay (ms)"
+msgstr ""
+
+#: src/components/AnimatedHeadlineOptions.vue:452
+msgid "Stroke Color"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:162
+msgid "Background Style"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:163
+#: src/components/BorderSectionControl.vue:83
+#: src/components/ImageCarouselOptions.vue:819
+#: src/components/ImageOptions.vue:550
+#: src/components/PricingTableOptions.vue:1018
+#: src/components/SectionOptions.vue:250
+#: src/components/WCCustomProductsGridOptions.vue:812
+msgid "Solid"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:164
+msgid "Gradient"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:165
+msgid "Gradient Type"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:166
+msgid "Radial"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:167
+msgid "Linear"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:168
+msgid "Angle"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:169
+msgid "Position"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:170
+msgid "Top Center"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:171
+msgid "Top Left"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:172
+msgid "Top Right"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:173
+msgid "Center Center"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:174
+msgid "Center Left"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:175
+msgid "Center Right"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:176
+msgid "Bottom Center"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:177
+msgid "Bottom Left"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:178
+msgid "Bottom Right"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:179
+msgid "First Color Location"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:180
+msgid "Second Color Location"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:181
+msgid "Background Position"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:182
+msgid "Full Screen Cover"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:183
+msgid "100% Width Top"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:184
+msgid "Repeat"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:185
+msgid "Repeat Horizontal Top"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:186
+msgid "Repeat Horizontal Bottom"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:187
+msgid "Repeat Vertical Center"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:188
+msgid "First Color"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:189
+msgid "Second Color"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:191
+msgid "100% Width Bottom"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:193
+msgid "Custom Position"
+msgstr ""
+
+#: src/components/BackgroundControl.vue:194
+msgid "Background Image"
+msgstr ""
+
+#: src/components/BorderRadiusControl.vue:128
+#: src/components/BorderSectionControl.vue:81
+#: src/components/ButtonOptions.vue:561
+#: src/components/CountdownOptions.vue:606
+#: src/components/ImageCarouselOptions.vue:817
+#: src/components/ImageOptions.vue:548
+#: src/components/OptinFormOptions.vue:692
+#: src/components/PricingTableOptions.vue:969
+#: src/components/ProgressBarOptions.vue:275
+#: src/components/SectionOptions.vue:248
+#: src/components/SocialProfilesOptions.vue:456
+#: src/components/WCAddToCartOptions.vue:594
+#: src/components/WCCartOptions.vue:454
+#: src/components/WCCheckoutOptions.vue:667
+#: src/components/WCCustomProductsGridOptions.vue:758
+msgid "Border Radius"
+msgstr ""
+
+#: src/components/BorderSectionControl.vue:80
+#: src/components/SectionOptions.vue:259
+msgid "Border"
+msgstr ""
+
+#: src/components/BorderSectionControl.vue:82
+#: src/components/ImageCarouselOptions.vue:818
+#: src/components/ImageOptions.vue:549
+#: src/components/PricingTableOptions.vue:1017
+#: src/components/SectionOptions.vue:249
+#: src/components/WCCustomProductsGridOptions.vue:811
+msgid "Border Style"
+msgstr ""
+
+#: src/components/BorderSectionControl.vue:84
+#: src/components/DividerOptions.vue:193
+#: src/components/ImageCarouselOptions.vue:820
+#: src/components/ImageOptions.vue:551
+#: src/components/PricingTableOptions.vue:1019
+#: src/components/SectionOptions.vue:251
+#: src/components/WCCustomProductsGridOptions.vue:813
+msgid "Dotted"
+msgstr ""
+
+#: src/components/BorderSectionControl.vue:85
+#: src/components/DividerOptions.vue:194
+#: src/components/ImageCarouselOptions.vue:821
+#: src/components/ImageOptions.vue:552
+#: src/components/PricingTableOptions.vue:1020
+#: src/components/SectionOptions.vue:252
+#: src/components/WCCustomProductsGridOptions.vue:814
+msgid "Dashed"
+msgstr ""
+
+#: src/components/BorderSectionControl.vue:86
+#: src/components/ImageCarouselOptions.vue:823
+#: src/components/ImageOptions.vue:555
+#: src/components/PricingTableOptions.vue:1021
+#: src/components/SectionOptions.vue:254
+#: src/components/TwitterEmbedTimelineOptions.vue:471
+#: src/components/TwitterFollowButtonOptions.vue:326
+#: src/components/TwitterTweetButtonOptions.vue:321
+msgid "Border Color"
+msgstr ""
+
+#: src/components/BorderWidthControl.vue:120
+#: src/components/ImageCarouselOptions.vue:824
+#: src/components/ImageOptions.vue:553
+#: src/components/PricingTableOptions.vue:1022
+msgid "Border Width"
+msgstr ""
+
+#: src/components/BulletListOptions.vue:413
+#: src/components/PricingTableOptions.vue:1006
+#: src/components/SocialProfilesOptions.vue:463
+msgid "Icon Color"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:550
+#: src/components/FacebookLikeOptions.vue:299
+#: src/components/LoginOptions.vue:702
+#: src/components/OptinFormOptions.vue:671
+#: src/components/TwitterEmbedTimelineOptions.vue:448
+#: src/components/TwitterEmbedTweetOptions.vue:344
+#: src/components/WCAddToCartOptions.vue:583
+#: src/components/WCCustomProductsGridOptions.vue:800
+msgid "Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:551
+#: src/components/LoginOptions.vue:687
+#: src/components/WCAddToCartOptions.vue:584
+msgid "Button Text"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:552
+#: src/components/NavOptions.vue:341
+#: src/components/PricingTableOptions.vue:998
+#: src/components/WCAddToCartOptions.vue:585
+msgid "Add \"No Follow\""
+msgstr ""
+
+#: src/components/ButtonOptions.vue:555
+#: src/components/OptinFormOptions.vue:683
+#: src/components/WCAddToCartOptions.vue:588
+msgid "Button Sub Text"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:557
+#: src/components/ImageOptions.vue:557
+#: src/components/NavOptions.vue:340
+#: src/components/PricingTableOptions.vue:997
+#: src/components/WCAddToCartOptions.vue:590
+msgid "Open In New Window"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:558
+#: src/components/CountdownOptions.vue:586
+#: src/components/FacebookCommentsOptions.vue:226
+#: src/components/FacebookEmbedOptions.vue:333
+#: src/components/FacebookLikeOptions.vue:302
+#: src/components/FacebookPageOptions.vue:280
+#: src/components/FeatureOptions.vue:356
+#: src/components/IconFeatureOptions.vue:357
+#: src/components/IconOptions.vue:181
+#: src/components/ImageCarouselOptions.vue:778
+#: src/components/OptinFormOptions.vue:675
+#: src/components/SocialProfilesOptions.vue:450
+#: src/components/SocialSharingOptions.vue:313
+#: src/components/StarRatingOptions.vue:212
+#: src/components/TestimonialOptions.vue:470
+#: src/components/TwitterEmbedTimelineOptions.vue:451
+#: src/components/TwitterEmbedTweetOptions.vue:347
+#: src/components/TwitterFollowButtonOptions.vue:306
+#: src/components/TwitterTweetButtonOptions.vue:301
+#: src/components/WCAddToCartOptions.vue:591
+msgid "Size"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:559
+#: src/components/WCAddToCartOptions.vue:592
+msgid "Vertical Padding"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:560
+#: src/components/WCAddToCartOptions.vue:593
+msgid "Horizontal Padding"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:565
+#: src/components/CountdownOptions.vue:575
+#: src/components/ImageCarouselOptions.vue:806
+#: src/components/ImageOptions.vue:525
+#: src/components/LoginOptions.vue:728
+#: src/components/OptinFormOptions.vue:664
+#: src/components/ProgressBarOptions.vue:268
+#: src/components/WCAddToCartOptions.vue:598
+#: src/components/WCCartOptions.vue:413
+#: src/components/WCCheckoutOptions.vue:626
+msgid "Templates"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:566
+#: src/components/CountdownOptions.vue:587
+#: src/components/OptinFormOptions.vue:676
+#: src/components/WCAddToCartOptions.vue:599
+msgid "Tiny"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:568
+#: src/components/WCAddToCartOptions.vue:601
+msgid "Pill Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:569
+#: src/components/WCAddToCartOptions.vue:602
+msgid "Flat Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:570
+#: src/components/WCAddToCartOptions.vue:603
+msgid "Blue Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:571
+#: src/components/WCAddToCartOptions.vue:604
+msgid "Light Green Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:572
+#: src/components/WCAddToCartOptions.vue:605
+msgid "Green Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:573
+#: src/components/WCAddToCartOptions.vue:606
+msgid "Orange Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:574
+#: src/components/WCAddToCartOptions.vue:607
+msgid "Red Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:575
+#: src/components/WCAddToCartOptions.vue:608
+msgid "Yellow Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:576
+#: src/components/WCAddToCartOptions.vue:609
+msgid "White Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:577
+#: src/components/WCAddToCartOptions.vue:610
+msgid "Grey Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:578
+#: src/components/WCAddToCartOptions.vue:611
+msgid "Black Button"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:579
+#: src/components/OptinFormOptions.vue:694
+#: src/components/WCAddToCartOptions.vue:612
+#: src/components/WCCartOptions.vue:441
+#: src/components/WCCheckoutOptions.vue:654
+#: src/components/WCCustomProductsGridOptions.vue:801
+msgid "Button Style"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:580
+#: src/components/OptinFormOptions.vue:695
+#: src/components/WCAddToCartOptions.vue:613
+#: src/components/WCCartOptions.vue:444
+#: src/components/WCCheckoutOptions.vue:657
+#: src/components/WCCustomProductsGridOptions.vue:748
+msgid "Flat"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:581
+#: src/components/OptinFormOptions.vue:697
+#: src/components/WCAddToCartOptions.vue:614
+#: src/components/WCCartOptions.vue:445
+#: src/components/WCCheckoutOptions.vue:658
+#: src/components/WCCustomProductsGridOptions.vue:749
+msgid "2D"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:582
+#: src/components/OptinFormOptions.vue:698
+#: src/components/WCAddToCartOptions.vue:615
+#: src/components/WCCartOptions.vue:446
+#: src/components/WCCheckoutOptions.vue:659
+#: src/components/WCCustomProductsGridOptions.vue:750
+msgid "Vintage"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:583
+#: src/components/OptinFormOptions.vue:696
+#: src/components/WCAddToCartOptions.vue:616
+#: src/components/WCCartOptions.vue:447
+#: src/components/WCCheckoutOptions.vue:660
+#: src/components/WCCustomProductsGridOptions.vue:751
+msgid "Ghost"
+msgstr ""
+
+#: src/components/ButtonOptions.vue:594
+#: src/components/FacebookCommentsOptions.vue:209
+#: src/components/FacebookLikeOptions.vue:285
+#: src/components/FacebookPageOptions.vue:263
+#: src/components/ImageOptions.vue:556
+#: src/components/WCAddToCartOptions.vue:627
+#: src/components/WCCartOptions.vue:448
+#: src/components/WCCheckoutOptions.vue:661
+#: src/components/WCCustomProductsGridOptions.vue:752
+#: src/views/SettingsGeneral.vue:224
+msgid "Link"
+msgstr ""
+
+#: src/components/ColOptions.vue:499
+msgid "Column Width"
+msgstr ""
+
+#: src/components/ColOptions.vue:509
+#: src/components/RowOptions.vue:172
+#: src/components/SectionOptions.vue:257
+#: src/views/SetupDesign-Pro.vue:812
+msgid "Background"
+msgstr ""
+
+#: src/components/ColOptions.vue:510
+#: src/components/FacebookLikeOptions.vue:297
+#: src/components/TwitterEmbedTimelineOptions.vue:446
+#: src/components/TwitterEmbedTweetOptions.vue:342
+#: src/components/WCCartOptions.vue:415
+#: src/components/WCCheckoutOptions.vue:628
+#: src/components/WCCustomProductsGridOptions.vue:719
+msgid "Layout"
+msgstr ""
+
+#: src/components/ColOptions.vue:511
+#: src/components/ContactFormOptions.vue:224
+#: src/components/GiveawayOptions.vue:136
+#: src/components/NavOptions.vue:333
+#: src/components/SectionOptions.vue:258
+msgid "Advanced Styles"
+msgstr ""
+
+#: src/components/ColOptions.vue:512
+msgid "Content Alignment"
+msgstr ""
+
+#: src/components/ColOptions.vue:513
+msgid "Simple"
+msgstr ""
+
+#: src/components/ColOptions.vue:517
+msgid "Display"
+msgstr ""
+
+#: src/components/ColOptions.vue:518
+msgid "Flex Direction"
+msgstr ""
+
+#: src/components/ColOptions.vue:519
+msgid "Justify Content"
+msgstr ""
+
+#: src/components/ColOptions.vue:520
+msgid "Align Items"
+msgstr ""
+
+#: src/components/ColOptions.vue:521
+#: src/views/Layoutnav.vue:286
+msgid "Column"
+msgstr ""
+
+#: src/components/ColOptions.vue:522
+#: src/views/Layoutnav.vue:285
+msgid "Row"
+msgstr ""
+
+#: src/components/ColOptions.vue:523
+msgid "Flex Start"
+msgstr ""
+
+#: src/components/ColOptions.vue:524
+msgid "Center"
+msgstr ""
+
+#: src/components/ColOptions.vue:525
+msgid "Flex End"
+msgstr ""
+
+#: src/components/ColOptions.vue:527
+msgid "Space Around"
+msgstr ""
+
+#: src/components/ColOptions.vue:528
+msgid "Space Evenly"
+msgstr ""
+
+#: src/components/ColOptions.vue:529
+msgid "Baseline"
+msgstr ""
+
+#: src/components/ColOptions.vue:530
+msgid "Stretch"
+msgstr ""
+
+#: src/components/ColOptions.vue:531
+#: src/components/FontControl.vue:25
+#: src/components/SocialProfilesOptions.vue:448
+#: src/components/WCCartOptions.vue:461
+#: src/components/WCCheckoutOptions.vue:675
+msgid "Default"
+msgstr ""
+
+#: src/components/ColorPicker.vue:205
+msgid "Global Colors"
+msgstr ""
+
+#: src/components/ColorPicker.vue:206
+msgid "Common Colors"
+msgstr ""
+
+#: src/components/ColorPicker.vue:207
+msgid "Recently Used"
+msgstr ""
+
+#: src/components/ColorPicker.vue:208
+msgid "Clear"
+msgstr ""
+
+#: src/components/ColorPicker.vue:209
+#: src/components/CustomHTMLOptions.vue:160
+#: src/components/TypographyControl.vue:275
+#: src/views/Setup.vue:661
+#: src/views/SetupDesign-Pro.vue:797
+msgid "Close"
+msgstr ""
+
+#: src/components/ContactForm.vue:84
+msgid "Install Contact Form plugin:"
+msgstr ""
+
+#: src/components/ContactForm.vue:87
+msgid "Contact Form"
+msgstr ""
+
+#: src/components/ContactForm.vue:88
+#: src/components/Giveaway.vue:89
+#: src/components/Shortcode-Pro.vue:33
+msgid "(This shortcode will be rendered on the live preview.)"
+msgstr ""
+
+#: src/components/ContactForm.vue:92
+#: src/components/ContactFormOptions.vue:225
+msgid "Select a Form"
+msgstr ""
+
+#: src/components/ContactForm.vue:93
+msgid ""
+"You can use WPForms to build contact forms, surveys, payment forms, and "
+"more with just a few clicks."
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:227
+msgid "Select"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:228
+msgid "Need to make changes? Edit the selected form."
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:229
+msgid "+ New Form"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:230
+#: src/components/GiveawayOptions.vue:142
+#: src/views/SettingsGeneral.vue:225
+msgid "Show"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:231
+#: src/components/GiveawayOptions.vue:143
+msgid "Hide"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:232
+#: src/components/GiveawayOptions.vue:144
+msgid "Form Name"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:233
+#: src/components/GiveawayOptions.vue:145
+msgid "Form Description"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:234
+#: src/components/GiveawayOptions.vue:146
+#: src/components/LoginOptions.vue:705
+#: src/components/OptinFormOptions.vue:669
+msgid "Form"
+msgstr ""
+
+#: src/components/ContactFormOptions.vue:235
+#: src/components/GiveawayOptions.vue:147
+msgid "Display Options"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:578
+msgid "Countdown Type"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:579
+msgid "Visitor Timer (Evergreen)"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:580
+msgid "DateTime Countdown"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:581
+msgid "Set Timer For"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:582
+msgid "End Date"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:583
+msgid "End Time"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:584
+msgid "Timezone"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:591
+msgid "Action To Take On Expires"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:592
+#: src/components/OptinFormOptions.vue:686
+msgid "Show Message"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:593
+#: src/components/OptinFormOptions.vue:687
+msgid "Redirect"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:594
+#: src/components/OptinFormOptions.vue:688
+msgid "Message"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:595
+#: src/components/LoginOptions.vue:682
+#: src/components/OptinFormOptions.vue:689
+msgid "Redirect URL"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:596
+msgid "Customize Labels"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:597
+msgid "Day Label"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:598
+msgid "Hour Label"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:599
+msgid "Minute Label"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:600
+msgid "Second Label"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:602
+msgid "Hours"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:603
+msgid "Minutes"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:604
+msgid "Seconds"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:616
+msgid "Hightlight Color"
+msgstr ""
+
+#: src/components/CountdownOptions.vue:617
+#: src/components/WCCartOptions.vue:438
+#: src/components/WCCheckoutOptions.vue:651
+#: src/components/WCCustomProductsGridOptions.vue:742
+msgid "Label Color"
+msgstr ""
+
+#: src/components/CustomHTML.vue:24
+msgid "Enter Your HTML"
+msgstr ""
+
+#: src/components/CustomHTMLOptions.vue:157
+#: src/views/SetupDesign-Pro.vue:809
+msgid "Expand Editor"
+msgstr ""
+
+#: src/components/CustomHTMLOptions.vue:158
+msgid "Custom Code"
+msgstr ""
+
+#: src/components/CustomHTMLOptions.vue:159
+msgid "Edit Custom HMTL"
+msgstr ""
+
+#: src/components/DividerOptions.vue:189
+msgid "Divider"
+msgstr ""
+
+#: src/components/DividerOptions.vue:192
+msgid "Solid Line"
+msgstr ""
+
+#: src/components/DividerOptions.vue:196
+#: src/components/FacebookLikeOptions.vue:309
+#: src/components/GoogleMapsOptions.vue:195
+#: src/components/ImageOptions.vue:528
+#: src/components/OptinFormOptions.vue:673
+#: src/components/RowOptions.vue:174
+#: src/components/TwitterEmbedTimelineOptions.vue:458
+#: src/components/TwitterEmbedTweetOptions.vue:354
+#: src/components/TwitterFollowButtonOptions.vue:313
+#: src/components/TwitterTweetButtonOptions.vue:308
+#: src/components/VideoOptions.vue:187
+msgid "Width"
+msgstr ""
+
+#: src/components/DividerOptions.vue:197
+#: src/components/FacebookEmbedOptions.vue:340
+#: src/components/FacebookPageOptions.vue:287
+#: src/components/GoogleMapsOptions.vue:191
+#: src/components/SpacerOptions.vue:66
+#: src/components/TwitterEmbedTimelineOptions.vue:459
+#: src/components/TwitterFollowButtonOptions.vue:314
+#: src/components/TwitterTweetButtonOptions.vue:309
+msgid "Height"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:132
+#: src/components/HeaderOptions.vue:356
+#: src/components/TextOptions.vue:301
+msgid "Insert Dynamic Text"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:134
+msgid "Please enter date/time format"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:135
+msgid "Please select date/time format"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:136
+msgid "Insert"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:137
+#: src/components/Row.vue:849
+#: src/components/Section.vue:557
+#: src/views/Setup.vue:659
+msgid "Cancel"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:138
+msgid "Dynamic Text Replacement"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:139
+msgid "DateTime"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:140
+msgid "Query Parameter"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:141
+msgid "Today"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:142
+msgid "Tommorow"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:143
+msgid "Today Date"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:144
+msgid "Tomorrow Date"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:145
+msgid "Month"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:146
+msgid "Next Month"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:147
+msgid "Year"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:148
+msgid "Select Date Time Format"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:149
+msgid "Query Parameters"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:150
+msgid ""
+"Dynamic Text allows to create evergreen text. You can create date based "
+"dynamic text or pass in by query parameter. <a "
+"href=\"https://www.seedprod.com/docs/dynamic-text\" target=\"_blank\" "
+"class=\"sp-text-primary hover:sp-underline\">Learn More</a>"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:151
+msgid "Parameter Name"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:152
+msgid "Default Value"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:153
+msgid "Please enter parameter name"
+msgstr ""
+
+#: src/components/DynamicTextControl.vue:154
+msgid ""
+"Don't see the date format you need? Click the Learn More link above to "
+"learn how to create any date."
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:202
+msgid "Lazy Loading"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:205
+#: src/components/FacebookLikeOptions.vue:281
+msgid "Faces"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:206
+#: src/components/FacebookLikeOptions.vue:282
+#: src/components/TwitterEmbedTimelineOptions.vue:431
+#: src/components/TwitterEmbedTweetOptions.vue:327
+#: src/components/TwitterFollowButtonOptions.vue:286
+#: src/components/TwitterTweetButtonOptions.vue:281
+msgid "Target Url"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:207
+#: src/components/FacebookLikeOptions.vue:283
+#: src/components/TwitterEmbedTimelineOptions.vue:432
+#: src/components/TwitterEmbedTweetOptions.vue:328
+#: src/components/TwitterFollowButtonOptions.vue:287
+#: src/components/TwitterTweetButtonOptions.vue:282
+msgid "Current Page"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:208
+#: src/components/FacebookLikeOptions.vue:284
+#: src/components/FacebookPageOptions.vue:262
+#: src/components/PricingTableOptions.vue:987
+#: src/components/TwitterEmbedTimelineOptions.vue:433
+#: src/components/TwitterEmbedTweetOptions.vue:329
+#: src/components/TwitterFollowButtonOptions.vue:288
+#: src/components/TwitterTweetButtonOptions.vue:283
+#: src/components/VideoOptions.vue:184
+msgid "Custom"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:210
+#: src/components/FacebookLikeOptions.vue:286
+#: src/components/FacebookPageOptions.vue:264
+#: src/components/TwitterEmbedTimelineOptions.vue:435
+#: src/components/TwitterEmbedTweetOptions.vue:331
+#: src/components/TwitterFollowButtonOptions.vue:290
+#: src/components/TwitterTweetButtonOptions.vue:285
+msgid "Url Format"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:211
+#: src/components/FacebookLikeOptions.vue:287
+#: src/components/FacebookPageOptions.vue:265
+#: src/components/TwitterEmbedTimelineOptions.vue:436
+#: src/components/TwitterEmbedTweetOptions.vue:332
+#: src/components/TwitterFollowButtonOptions.vue:291
+#: src/components/TwitterTweetButtonOptions.vue:286
+msgid "Plain Permalink"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:212
+#: src/components/FacebookEmbedOptions.vue:319
+#: src/components/FacebookLikeOptions.vue:288
+#: src/components/FacebookPageOptions.vue:266
+#: src/components/TwitterEmbedTimelineOptions.vue:437
+#: src/components/TwitterEmbedTweetOptions.vue:333
+#: src/components/TwitterFollowButtonOptions.vue:292
+#: src/components/TwitterTweetButtonOptions.vue:287
+msgid "Pretty Permalink"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:215
+#: src/components/FacebookEmbedOptions.vue:322
+#: src/components/FacebookLikeOptions.vue:291
+#: src/components/FacebookPageOptions.vue:269
+msgid "Facebook Setting"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:217
+#: src/components/FacebookEmbedOptions.vue:324
+#: src/components/FacebookLikeOptions.vue:293
+#: src/components/FacebookPageOptions.vue:271
+#: src/components/TwitterEmbedTimelineOptions.vue:442
+#: src/components/TwitterEmbedTweetOptions.vue:338
+#: src/components/TwitterFollowButtonOptions.vue:297
+#: src/components/TwitterTweetButtonOptions.vue:292
+msgid "Facebook App Id:"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:218
+#: src/components/FacebookEmbedOptions.vue:328
+#: src/components/FacebookLikeOptions.vue:294
+#: src/components/FacebookPageOptions.vue:272
+#: src/components/FeatureOptions.vue:352
+#: src/components/IconFeatureOptions.vue:353
+#: src/components/ImageCarouselOptions.vue:774
+#: src/components/TestimonialOptions.vue:466
+#: src/components/TwitterEmbedTimelineOptions.vue:443
+#: src/components/TwitterEmbedTweetOptions.vue:339
+#: src/components/TwitterFollowButtonOptions.vue:298
+#: src/components/TwitterTweetButtonOptions.vue:293
+#: src/components/VideoOptions.vue:182
+#: src/components/WCCustomProductsGridOptions.vue:773
+msgid "Type"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:219
+#: src/components/FacebookEmbedOptions.vue:326
+#: src/components/FacebookLikeOptions.vue:295
+#: src/components/FacebookPageOptions.vue:273
+#: src/components/TwitterEmbedTimelineOptions.vue:444
+#: src/components/TwitterEmbedTweetOptions.vue:340
+#: src/components/TwitterFollowButtonOptions.vue:299
+#: src/components/TwitterTweetButtonOptions.vue:294
+msgid "Like"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:220
+#: src/components/FacebookEmbedOptions.vue:327
+#: src/components/FacebookLikeOptions.vue:296
+#: src/components/FacebookPageOptions.vue:274
+#: src/components/TwitterEmbedTimelineOptions.vue:445
+#: src/components/TwitterEmbedTweetOptions.vue:341
+#: src/components/TwitterFollowButtonOptions.vue:300
+#: src/components/TwitterTweetButtonOptions.vue:295
+msgid "Recommend"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:221
+#: src/components/WCCustomProductsGridOptions.vue:784
+msgid "Order By"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:222
+msgid "Social"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:223
+msgid "Reverse Time"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:224
+msgid "Time"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:225
+#: src/components/FacebookEmbedOptions.vue:332
+#: src/components/FacebookLikeOptions.vue:301
+#: src/components/FacebookPageOptions.vue:279
+#: src/components/TwitterEmbedTimelineOptions.vue:450
+#: src/components/TwitterEmbedTweetOptions.vue:346
+msgid "Box Count"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:229
+#: src/components/FacebookEmbedOptions.vue:336
+#: src/components/FacebookLikeOptions.vue:305
+#: src/components/FacebookPageOptions.vue:283
+#: src/components/TwitterEmbedTimelineOptions.vue:454
+#: src/components/TwitterEmbedTweetOptions.vue:350
+#: src/components/TwitterFollowButtonOptions.vue:309
+#: src/components/TwitterTweetButtonOptions.vue:304
+msgid "Color Scheme"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:230
+#: src/components/FacebookEmbedOptions.vue:337
+#: src/components/FacebookLikeOptions.vue:306
+#: src/components/FacebookPageOptions.vue:284
+#: src/components/ImageCarouselOptions.vue:792
+#: src/components/TestimonialOptions.vue:484
+#: src/components/TwitterEmbedTimelineOptions.vue:455
+#: src/components/TwitterEmbedTweetOptions.vue:351
+#: src/components/TwitterFollowButtonOptions.vue:310
+#: src/components/TwitterTweetButtonOptions.vue:305
+msgid "Light"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:231
+#: src/components/FacebookEmbedOptions.vue:338
+#: src/components/FacebookLikeOptions.vue:307
+#: src/components/FacebookPageOptions.vue:285
+#: src/components/ImageCarouselOptions.vue:791
+#: src/components/TestimonialOptions.vue:483
+#: src/components/TwitterEmbedTimelineOptions.vue:456
+#: src/components/TwitterEmbedTweetOptions.vue:352
+#: src/components/TwitterFollowButtonOptions.vue:311
+#: src/components/TwitterTweetButtonOptions.vue:306
+msgid "Dark"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:233
+msgid "Number of Comments"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:248
+#: src/components/FacebookEmbedOptions.vue:355
+#: src/components/FacebookLikeOptions.vue:324
+#: src/components/FacebookPageOptions.vue:302
+#: src/components/FacebookSettings.vue:35
+#: src/components/TwitterEmbedTweetOptions.vue:366
+msgid "Set your Facebook App ID in the "
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:249
+#: src/components/FacebookEmbedOptions.vue:356
+#: src/components/FacebookLikeOptions.vue:325
+#: src/components/FacebookPageOptions.vue:303
+#: src/components/FacebookSettings.vue:36
+#: src/components/TwitterEmbedTweetOptions.vue:367
+#: src/views/Setup.vue:653
+msgid "Page Settings"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:250
+#: src/components/FacebookEmbedOptions.vue:357
+#: src/components/FacebookLikeOptions.vue:326
+#: src/components/FacebookPageOptions.vue:304
+#: src/components/FacebookSettings.vue:37
+#: src/components/TwitterEmbedTweetOptions.vue:368
+msgid "You are connected to Facebook App"
+msgstr ""
+
+#: src/components/FacebookCommentsOptions.vue:251
+#: src/components/FacebookEmbedOptions.vue:358
+#: src/components/FacebookLikeOptions.vue:327
+#: src/components/FacebookPageOptions.vue:305
+#: src/components/TwitterEmbedTweetOptions.vue:369
+msgid "Change App"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:309
+msgid "Include full post"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:312
+msgid "Allow Full Screen"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:313
+msgid "Autoplay"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:314
+msgid "Captions"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:315
+msgid "Parent Comment"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:316
+msgid "Post Link"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:317
+msgid "Video Link"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:318
+msgid "Comment Link"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:329
+msgid "Post"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:330
+#: src/components/VideoOptions.vue:180
+msgid "Video"
+msgstr ""
+
+#: src/components/FacebookEmbedOptions.vue:331
+msgid "Comment"
+msgstr ""
+
+#: src/components/FacebookLikeOptions.vue:278
+msgid "Share Button"
+msgstr ""
+
+#: src/components/FacebookLikeOptions.vue:298
+#: src/components/TwitterEmbedTimelineOptions.vue:447
+#: src/components/TwitterEmbedTweetOptions.vue:343
+#: src/views/SetupBlockOptions-Pro.vue:830
+msgid "Standard"
+msgstr ""
+
+#: src/components/FacebookLikeOptions.vue:300
+#: src/components/TwitterEmbedTimelineOptions.vue:449
+#: src/components/TwitterEmbedTweetOptions.vue:345
+msgid "Button Count"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:256
+msgid "Small Header"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:259
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:260
+msgid "Profile Photos"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:261
+msgid "Hide CTA button"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:275
+msgid "Tabs"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:276
+msgid "Timeline"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:277
+msgid "Events"
+msgstr ""
+
+#: src/components/FacebookPageOptions.vue:278
+msgid "Messages"
+msgstr ""
+
+#: src/components/FacebookSettings.vue:38
+msgid "Change App Id"
+msgstr ""
+
+#: src/components/FeatureOptions.vue:353
+#: src/components/IconFeatureOptions.vue:354
+#: src/components/ImageCarouselOptions.vue:802
+#: src/components/ImageOptions.vue:527
+#: src/components/SocialSharingOptions.vue:312
+#: src/components/TestimonialOptions.vue:478
+#: src/components/WCCustomProductsGridOptions.vue:809
+msgid "Image"
+msgstr ""
+
+#: src/components/FeatureOptions.vue:355
+#: src/components/IconFeatureOptions.vue:356
+#: src/components/ImageOptions.vue:536
+msgid "Image Size"
+msgstr ""
+
+#: src/components/FeatureOptions.vue:358
+#: src/components/IconFeatureOptions.vue:359
+msgid "Header Text"
+msgstr ""
+
+#: src/components/FontAwesomePicker.vue:39
+msgid "Click to select an icon"
+msgstr ""
+
+#: src/components/FontAwesomePicker.vue:40
+msgid "Search icons"
+msgstr ""
+
+#: src/components/FontVariantControl.vue:37
+msgid "Select a Font Weight"
+msgstr ""
+
+#: src/components/FontVariantControl.vue:38
+msgid "Normal 400"
+msgstr ""
+
+#: src/components/FontVariantControl.vue:39
+msgid "Bold 700"
+msgstr ""
+
+#: src/components/Form-Pro.vue:21
+msgid "Submit"
+msgstr ""
+
+#: src/components/Giveaway.vue:85
+msgid "Install Giveaway plugin:"
+msgstr ""
+
+#: src/components/Giveaway.vue:88
+msgid "Giveaway"
+msgstr ""
+
+#: src/components/Giveaway.vue:93
+msgid "Select a Giveway"
+msgstr ""
+
+#: src/components/Giveaway.vue:94
+msgid ""
+"You can use RafflePress to build viral giveaways in minutes and explode "
+"your email list."
+msgstr ""
+
+#: src/components/GiveawayOptions.vue:139
+msgid "Select a Giveaway"
+msgstr ""
+
+#: src/components/GiveawayOptions.vue:140
+msgid "Need to make changes? Edit the selected giveaway."
+msgstr ""
+
+#: src/components/GiveawayOptions.vue:141
+msgid "+ New Giveaway"
+msgstr ""
+
+#: src/components/GoogleMaps-Pro.vue:29
+#: src/components/GoogleMapsOptions.vue:188
+msgid "Google Maps"
+msgstr ""
+
+#: src/components/GoogleMapsOptions.vue:189
+msgid "Location"
+msgstr ""
+
+#: src/components/Icon-Pro.vue:25
+msgid "Select an Icon"
+msgstr ""
+
+#: src/components/IconPicker.vue:242
+msgid "All Icons"
+msgstr ""
+
+#: src/components/IconPicker.vue:243
+msgid "Font Awesome"
+msgstr ""
+
+#: src/components/IconPicker.vue:244
+msgid "Search icons..."
+msgstr ""
+
+#: src/components/IconPicker.vue:245
+msgid "Choose Icon"
+msgstr ""
+
+#: src/components/IconPicker.vue:246
+msgid "Icon Library"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:779
+msgid "Caption Align"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:782
+msgid "Caption Color"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:787
+msgid "Add Images"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:788
+msgid "Caption"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:789
+#: src/components/TestimonialOptions.vue:481
+#: src/components/WCCustomProductsGridOptions.vue:838
+msgid "Title"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:790
+#: src/components/TestimonialOptions.vue:482
+msgid "Navigation Color Mode"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:795
+#: src/components/TestimonialOptions.vue:487
+msgid "AutoPlay"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:796
+#: src/components/TestimonialOptions.vue:488
+msgid "Pause On Hover"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:797
+#: src/components/TestimonialOptions.vue:489
+msgid "Autoplay Speed"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:798
+#: src/components/TestimonialOptions.vue:490
+msgid "seconds"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:799
+#: src/components/TestimonialOptions.vue:491
+msgid "Enable Comment Bubble"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:800
+msgid "Carousel Settings"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:801
+msgid "Carousel Images"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:805
+msgid "Show Caption"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:807
+msgid "Slider Image Styles"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:816
+#: src/components/ImageOptions.vue:547
+#: src/components/WCCustomProductsGridOptions.vue:822
+msgid "Bottom Drop Shadow"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:822
+#: src/components/ImageOptions.vue:530
+msgid "Image Border"
+msgstr ""
+
+#: src/components/ImageCarouselOptions.vue:825
+#: src/components/ImageOptions.vue:554
+#: src/components/PricingTableOptions.vue:1023
+#: src/components/WCCustomProductsGridOptions.vue:829
+msgid "Image Whitespace Padding"
+msgstr ""
+
+#: src/components/ImageControl.vue:253
+msgid "Choose New Image"
+msgstr ""
+
+#: src/components/ImageControl.vue:254
+#: src/views/TemplateChooser-Pro.vue:1150
+msgid "First Page"
+msgstr ""
+
+#: src/components/ImageControl.vue:255
+#: src/views/TemplateChooser-Pro.vue:1151
+msgid "Prev"
+msgstr ""
+
+#: src/components/ImageControl.vue:256
+#: src/views/TemplateChooser-Pro.vue:1152
+msgid "Next"
+msgstr ""
+
+#: src/components/ImageControl.vue:257
+#: src/views/TemplateChooser-Pro.vue:1153
+msgid "Last Page"
+msgstr ""
+
+#: src/components/ImageControl.vue:258
+msgid "Use Your"
+msgstr ""
+
+#: src/components/ImageControl.vue:259
+msgid "Own Image"
+msgstr ""
+
+#: src/components/ImageControl.vue:260
+#: src/components/Row.vue:845
+#: src/components/Section.vue:554
+#: src/views/BuilderView.vue:359
+msgid "or"
+msgstr ""
+
+#: src/components/ImageControl.vue:261
+msgid "Stock Images Library"
+msgstr ""
+
+#: src/components/ImageControl.vue:262
+#: src/components/WCCustomProductsGridOptions.vue:863
+msgid "Search"
+msgstr ""
+
+#: src/components/ImageControl.vue:263
+msgid "Use a"
+msgstr ""
+
+#: src/components/ImageControl.vue:264
+msgid "Stock Image"
+msgstr ""
+
+#: src/components/ImageControl.vue:265
+msgid "Search images..."
+msgstr ""
+
+#: src/components/ImageOptions.vue:535
+msgid "Alt Text"
+msgstr ""
+
+#: src/components/ImageOptions.vue:558
+msgid "No Follow"
+msgstr ""
+
+#: src/components/ListTable.vue:470
+msgid "Bulk Actions"
+msgstr ""
+
+#: src/components/ListTable.vue:471
+msgid "Apply"
+msgstr ""
+
+#: src/components/ListTable.vue:472
+msgid "items"
+msgstr ""
+
+#: src/components/ListTable.vue:473
+msgid "No items found."
+msgstr ""
+
+#: src/components/ListTable.vue:475
+msgid "Select bulk action"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:46
+#: src/components/LiteCTATemplates.vue:45
+#: src/components/LiteCTAUpgrade.vue:46
+#: src/components/SettingsLiteCTA.vue:153
+#: src/components/UpgradeCTABuilder.vue:45
+msgid "Dismiss this message"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:47
+#: src/components/LiteCTATemplates.vue:46
+#: src/components/LiteCTAUpgrade.vue:47
+#: src/components/SettingsLiteCTA.vue:154
+#: src/components/UpgradeCTABuilder.vue:46
+msgid "Get SeedProd Pro and Unlock all the Powerful Features"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:51
+#: src/components/LiteCTAUpgrade.vue:51
+#: src/components/UpgradeCTABuilder.vue:50
+msgid ""
+"Thanks for being a loyal SeedProd Lite user. Upgrade to\n"
+"SeedProd Pro to unlock all the awesome features and\n"
+"experience why SeedProd is the best WordPress landing\n"
+"page plugin."
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:58
+#: src/components/LiteCTATemplates.vue:57
+#: src/components/LiteCTAUpgrade.vue:58
+#: src/components/SettingsLiteCTA.vue:165
+#: src/components/UpgradeCTABuilder.vue:57
+msgid "Pro Features:"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:61
+#: src/components/LiteCTAUpgrade.vue:61
+#: src/components/UpgradeCTABuilder.vue:60
+msgid "PRO Email Marketing Integrations"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:72
+#: src/components/LiteCTAUpgrade.vue:72
+#: src/components/UpgradeCTABuilder.vue:71
+msgid "Email Subscriber Management"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:76
+#: src/components/LiteCTATemplates.vue:74
+#: src/components/LiteCTAUpgrade.vue:76
+#: src/components/SettingsLiteCTA.vue:182
+#: src/components/UpgradeCTABuilder.vue:75
+msgid "Bonus:"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:77
+#: src/components/LiteCTATemplates.vue:75
+#: src/components/LiteCTAUpgrade.vue:77
+#: src/components/SettingsLiteCTA.vue:183
+#: src/components/UpgradeCTABuilder.vue:76
+msgid "SeedProd Lite users get"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:78
+#: src/components/LiteCTATemplates.vue:76
+#: src/components/LiteCTAUpgrade.vue:78
+#: src/components/SettingsLiteCTA.vue:184
+#: src/components/UpgradeCTABuilder.vue:77
+msgid "a discount off the regular price"
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:82
+#: src/components/LiteCTATemplates.vue:80
+#: src/components/LiteCTAUpgrade.vue:82
+#: src/components/SettingsLiteCTA.vue:188
+#: src/components/UpgradeCTABuilder.vue:81
+msgid "automatically applied at checkout."
+msgstr ""
+
+#: src/components/LiteCTABuilder.vue:86
+#: src/components/LiteCTATemplates.vue:84
+#: src/components/LiteCTAUpgrade.vue:86
+#: src/components/SettingsLiteCTA.vue:192
+#: src/components/UpgradeCTABuilder.vue:85
+msgid "Get SeedProd Pro Today and Unlock all the Powerful Features »"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:59
+msgid "More Premium Blocks"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:60
+msgid "Capture Emails and Leads"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:64
+msgid "Marketing & CRM Integrations"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:65
+msgid "Maintenance Access Controls"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:66
+msgid "Growing Library of Templates"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:71
+msgid "More Design Controls"
+msgstr ""
+
+#: src/components/LiteCTATemplates.vue:72
+msgid "Coming Soon Access Controls"
+msgstr ""
+
+#: src/components/Login-Pro.vue:103
+msgid "Username or Email Address"
+msgstr ""
+
+#: src/components/Login-Pro.vue:104
+msgid "Get New Password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:105
+msgid "New password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:106
+msgid "Hide password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:107
+msgid "Strength indicator"
+msgstr ""
+
+#: src/components/Login-Pro.vue:108
+msgid "Confirm use of weak password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:109
+msgid "Confirm new password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:110
+msgid "Reset Password"
+msgstr ""
+
+#: src/components/Login-Pro.vue:111
+msgid "Back to Log In"
+msgstr ""
+
+#: src/components/LoginOptions.vue:677
+#: src/components/OptinFormOptions.vue:670
+#: src/components/WCCartOptions.vue:417
+#: src/components/WCCheckoutOptions.vue:630
+#: src/components/WCCustomProductsGridOptions.vue:721
+msgid "Fields"
+msgstr ""
+
+#: src/components/LoginOptions.vue:683
+msgid "Label for User field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:684
+msgid "Placeholder for User field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:685
+msgid "Label for Password field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:686
+msgid "Placeholder for Password field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:688
+msgid "Link Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:689
+msgid "Link Hover Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:690
+msgid "Label Text Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:691
+#: src/components/OptinFormOptions.vue:703
+#: src/components/WCCartOptions.vue:435
+#: src/components/WCCheckoutOptions.vue:648
+#: src/components/WCCustomProductsGridOptions.vue:739
+msgid "Field Text Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:692
+#: src/components/OptinFormOptions.vue:702
+#: src/components/WCCartOptions.vue:434
+#: src/components/WCCheckoutOptions.vue:647
+#: src/components/WCCustomProductsGridOptions.vue:738
+msgid "Field Background Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:693
+#: src/components/OptinFormOptions.vue:704
+#: src/components/WCCartOptions.vue:436
+#: src/components/WCCheckoutOptions.vue:649
+#: src/components/WCCustomProductsGridOptions.vue:740
+msgid "Field Border Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:694
+msgid "Button Text Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:695
+msgid "Button Background Color"
+msgstr ""
+
+#: src/components/LoginOptions.vue:696
+msgid "Field Size"
+msgstr ""
+
+#: src/components/LoginOptions.vue:697
+#: src/components/WCCartOptions.vue:440
+#: src/components/WCCheckoutOptions.vue:653
+#: src/components/WCCustomProductsGridOptions.vue:744
+msgid "Row Spacing"
+msgstr ""
+
+#: src/components/LoginOptions.vue:698
+msgid "Label Spacing"
+msgstr ""
+
+#: src/components/LoginOptions.vue:699
+#: src/components/WCCartOptions.vue:437
+#: src/components/WCCheckoutOptions.vue:650
+#: src/components/WCCustomProductsGridOptions.vue:741
+msgid "Field Border Width"
+msgstr ""
+
+#: src/components/LoginOptions.vue:700
+msgid "Field Border Radius"
+msgstr ""
+
+#: src/components/LoginOptions.vue:701
+#: src/components/WCCustomProductsGridOptions.vue:803
+msgid "Button Size"
+msgstr ""
+
+#: src/components/LoginOptions.vue:703
+#: src/components/OptinFormOptions.vue:668
+msgid "Success Action"
+msgstr ""
+
+#: src/components/LoginOptions.vue:704
+msgid "Additional Options"
+msgstr ""
+
+#: src/components/LoginOptions.vue:707
+msgid "Remember User Label"
+msgstr ""
+
+#: src/components/LoginOptions.vue:708
+msgid "Lost Password Link Text"
+msgstr ""
+
+#: src/components/LoginOptions.vue:709
+#: src/views/SetupDesign-Pro.vue:811
+msgid "Colors"
+msgstr ""
+
+#: src/components/LoginOptions.vue:710
+#: src/components/WCCartOptions.vue:439
+#: src/components/WCCheckoutOptions.vue:652
+#: src/components/WCCustomProductsGridOptions.vue:743
+msgid "Label Font"
+msgstr ""
+
+#: src/components/LoginOptions.vue:711
+msgid "Label Font Weight"
+msgstr ""
+
+#: src/components/LoginOptions.vue:712
+msgid "Field Font"
+msgstr ""
+
+#: src/components/LoginOptions.vue:713
+msgid "Field Font Weight"
+msgstr ""
+
+#: src/components/LoginOptions.vue:714
+msgid "Button Font"
+msgstr ""
+
+#: src/components/LoginOptions.vue:715
+msgid "Button Font Weight"
+msgstr ""
+
+#: src/components/LoginOptions.vue:716
+msgid "Logged In Text"
+msgstr ""
+
+#: src/components/LoginOptions.vue:717
+msgid ""
+"This text displays in place of a form if the user is already logged in. "
+"{user} will be replaced by the user's display name."
+msgstr ""
+
+#: src/components/LoginOptions.vue:718
+msgid "(e.g. 'Remember Me')"
+msgstr ""
+
+#: src/components/LoginOptions.vue:719
+msgid "(e.g. 'Lost your password?')"
+msgstr ""
+
+#: src/components/LoginOptions.vue:720
+msgid "Button Border Radius"
+msgstr ""
+
+#: src/components/LoginOptions.vue:721
+msgid "Field Width"
+msgstr ""
+
+#: src/components/LoginOptions.vue:727
+msgid "Label Text Size"
+msgstr ""
+
+#: src/components/LoginOptions.vue:729
+#: src/components/OptinFormOptions.vue:705
+#: src/components/WCCartOptions.vue:423
+#: src/components/WCCheckoutOptions.vue:636
+#: src/components/WCCustomProductsGridOptions.vue:727
+msgid "Light Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:730
+#: src/components/OptinFormOptions.vue:706
+#: src/components/WCCartOptions.vue:424
+#: src/components/WCCheckoutOptions.vue:637
+#: src/components/WCCustomProductsGridOptions.vue:728
+msgid "No Border Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:731
+#: src/components/OptinFormOptions.vue:707
+#: src/components/WCCartOptions.vue:425
+#: src/components/WCCheckoutOptions.vue:638
+#: src/components/WCCustomProductsGridOptions.vue:729
+msgid "Wide Border Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:732
+#: src/components/OptinFormOptions.vue:708
+#: src/components/WCCartOptions.vue:426
+#: src/components/WCCheckoutOptions.vue:639
+#: src/components/WCCustomProductsGridOptions.vue:730
+msgid "Inner Shadow Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:733
+#: src/components/OptinFormOptions.vue:709
+#: src/components/WCCartOptions.vue:427
+#: src/components/WCCheckoutOptions.vue:640
+#: src/components/WCCustomProductsGridOptions.vue:731
+msgid "Grey Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:734
+#: src/components/OptinFormOptions.vue:710
+#: src/components/WCCartOptions.vue:428
+#: src/components/WCCheckoutOptions.vue:641
+#: src/components/WCCustomProductsGridOptions.vue:732
+msgid "Dark Input Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:735
+#: src/components/OptinFormOptions.vue:711
+#: src/components/WCCartOptions.vue:429
+#: src/components/WCCheckoutOptions.vue:642
+#: src/components/WCCustomProductsGridOptions.vue:733
+msgid "Bottom Border Field"
+msgstr ""
+
+#: src/components/LoginOptions.vue:736
+#: src/components/OptinFormOptions.vue:712
+#: src/components/WCCartOptions.vue:430
+#: src/components/WCCheckoutOptions.vue:643
+#: src/components/WCCustomProductsGridOptions.vue:734
+msgid "Transparent Input Field"
+msgstr ""
+
+#: src/components/Modal.vue:33
+msgid "default header"
+msgstr ""
+
+#: src/components/Modal.vue:34
+msgid "default body"
+msgstr ""
+
+#: src/components/NavOptions.vue:339
+msgid "URL Link"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:667
+msgid "Submit Button"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:672
+#: src/components/SocialSharingOptions.vue:310
+#: src/components/StarRatingOptions.vue:211
+msgid "Label"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:674
+msgid "Required"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:684
+msgid "Input Sizes"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:685
+msgid "Action To Take"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:691
+#: src/components/TypographyControl.vue:276
+#: src/components/WCCartOptions.vue:457
+#: src/components/WCCheckoutOptions.vue:670
+#: src/components/WCCustomProductsGridOptions.vue:761
+msgid "Font Family"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:693
+msgid "Remove Inline Padding"
+msgstr ""
+
+#: src/components/OptinFormOptions.vue:713
+msgid "Button text"
+msgstr ""
+
+#: src/components/PricingTable-Pro.vue:177
+msgid "Normally"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1000
+msgid "Bottom Button Text"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1001
+msgid "Bottom Button Link"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1002
+msgid "Description Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1004
+msgid "Top Button Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1005
+msgid "Features List Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1009
+msgid "Bottom Button Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1010
+msgid "Bottom Button Size"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1011
+msgid "Bottom Button Before Text Icon"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1012
+msgid "Bottom Button After Text Icon"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1013
+#: src/components/WCCustomProductsGridOptions.vue:799
+msgid "Price Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1014
+msgid "Price Superscript"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1015
+msgid "Price Superscript Top"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:1016
+msgid "Block"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:947
+msgid "Features List"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:949
+msgid "Plan Name"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:951
+msgid "Currency Symbol"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:952
+msgid "Header"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:954
+#: src/components/WCCartOptions.vue:418
+#: src/components/WCCheckoutOptions.vue:631
+#: src/components/WCCustomProductsGridOptions.vue:722
+#: src/views/SetupDesign-Pro.vue:804
+msgid "Buttons"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:955
+msgid "Plan Name Typography"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:956
+msgid "Plan Name Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:957
+msgid "Top Button Size"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:958
+msgid "Top Button"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:961
+msgid "Bottom Button"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:962
+#: src/components/WCCustomProductsGridOptions.vue:798
+msgid "Price"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:963
+msgid "Top Size"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:964
+msgid "Top Button Before Text Icon"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:965
+msgid "Top Button After Text Icon"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:966
+msgid "Regular Price Color"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:970
+msgid "$ Dollar"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:971
+msgid "€ Euro"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:972
+msgid "฿ Baht"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:973
+msgid "₣ Franc"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:974
+msgid "ƒ Guilder"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:975
+msgid "kr Krona"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:976
+msgid "₤ Lira"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:977
+msgid "₧ Peseta"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:978
+msgid "₱ Peso"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:979
+msgid "£ Pound Sterling"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:980
+msgid "R$ Real"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:981
+msgid "₽ Ruble"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:982
+msgid "₨ Rupee"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:983
+msgid "₹ Rupee (Indian)"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:984
+msgid "₪ Shekel"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:985
+msgid "¥ Yen/Yuan"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:986
+msgid "₩ Won"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:988
+msgid "Custom Symbol"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:989
+msgid "Period"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:990
+msgid "Show Regular Price"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:991
+msgid "Regular Price"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:992
+msgid "Regular Price Label"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:993
+#: src/components/WCCustomProductsGridOptions.vue:797
+msgid "Description"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:994
+msgid "Show Top Button"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:995
+msgid "Top Button Text"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:996
+msgid "Top Button Link"
+msgstr ""
+
+#: src/components/PricingTableOptions.vue:999
+msgid "Show Bottom Button"
+msgstr ""
+
+#: src/components/ProgressBarOptions.vue:270
+msgid "Progress Bar"
+msgstr ""
+
+#: src/components/ProgressBarOptions.vue:271
+msgid "Bar Text"
+msgstr ""
+
+#: src/components/ProgressBarOptions.vue:272
+msgid "Percent"
+msgstr ""
+
+#: src/components/ProgressBarOptions.vue:274
+msgid "My Text"
+msgstr ""
+
+#: src/components/Row.vue:846
+#: src/components/Section.vue:555
+#: src/views/BuilderView.vue:360
+msgid "Drag a new block here"
+msgstr ""
+
+#: src/components/Row.vue:847
+#: src/components/Section.vue:559
+#: src/views/BuilderView.vue:361
+msgid "Choose your layout:"
+msgstr ""
+
+#: src/components/Row.vue:848
+msgid "Enter a new block template name:"
+msgstr ""
+
+#: src/components/Row.vue:850
+#: src/components/Section.vue:558
+#: src/views/Setup.vue:667
+msgid "Save Template"
+msgstr ""
+
+#: src/components/RowOptions.vue:175
+msgid "Column Gutter"
+msgstr ""
+
+#: src/components/Section.vue:556
+msgid "Enter a new section template name:"
+msgstr ""
+
+#: src/components/SectionOptions.vue:236
+msgid "Section Width"
+msgstr ""
+
+#: src/components/SectionOptions.vue:237
+msgid "Full Screen"
+msgstr ""
+
+#: src/components/SectionOptions.vue:238
+msgid "Fixed Width"
+msgstr ""
+
+#: src/components/SectionOptions.vue:239
+msgid "Content Width"
+msgstr ""
+
+#: src/components/SettingsLiteCTA.vue:166
+msgid "Powerful Page Editor"
+msgstr ""
+
+#: src/components/SettingsLiteCTA.vue:173
+msgid "Access Controls"
+msgstr ""
+
+#: src/components/Shortcode-Pro.vue:31
+msgid "Enter Your Shortcode"
+msgstr ""
+
+#: src/components/Shortcode-Pro.vue:32
+#: src/components/ShortcodeOptions.vue:104
+msgid "Shortcode"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:433
+#: src/components/SocialSharingOptions.vue:305
+msgid "Select a Type"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:434
+#: src/components/SocialSharingOptions.vue:306
+msgid "Facebook"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:435
+#: src/components/SocialSharingOptions.vue:307
+msgid "Twitter"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:436
+#: src/components/SocialSharingOptions.vue:308
+msgid "LinkedIn"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:437
+#: src/components/SocialSharingOptions.vue:309
+msgid "Pinterest"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:438
+#: src/components/VideoOptions.vue:183
+msgid "YouTube"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:439
+msgid "Instagram"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:440
+msgid "Snapchat"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:441
+msgid "WordPress"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:442
+msgid "Github"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:443
+msgid "SoundCloud"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:444
+msgid "RSS"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:449
+msgid "Stacked"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:455
+msgid "Icon Size"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:457
+msgid "Icon Padding"
+msgstr ""
+
+#: src/components/SocialProfilesOptions.vue:466
+msgid "Phone"
+msgstr ""
+
+#: src/components/SocialSharingOptions.vue:302
+msgid "Social Sharing"
+msgstr ""
+
+#: src/components/SocialSharingOptions.vue:303
+msgid "Add New Share"
+msgstr ""
+
+#: src/components/SocialSharingOptions.vue:311
+msgid "Tweet Text"
+msgstr ""
+
+#: src/components/SpacerOptions.vue:65
+msgid "Spacer"
+msgstr ""
+
+#: src/components/StarRatingOptions.vue:206
+msgid "Star Rating"
+msgstr ""
+
+#: src/components/StarRatingOptions.vue:209
+msgid "Scale"
+msgstr ""
+
+#: src/components/StarRatingOptions.vue:210
+#: src/components/WCCustomProductsGridOptions.vue:837
+msgid "Rating"
+msgstr ""
+
+#: src/components/StarRatingOptions.vue:214
+msgid "Star Color"
+msgstr ""
+
+#: src/components/TestimonialOptions.vue:474
+msgid "Name Color"
+msgstr ""
+
+#: src/components/TestimonialOptions.vue:479
+msgid "Add Testimonial"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:423
+#: src/components/TwitterFollowButtonOptions.vue:278
+#: src/components/TwitterTweetButtonOptions.vue:273
+msgid "Hide Header"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:424
+#: src/components/TwitterFollowButtonOptions.vue:279
+#: src/components/TwitterTweetButtonOptions.vue:274
+msgid "Hide Footer"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:425
+#: src/components/TwitterFollowButtonOptions.vue:280
+#: src/components/TwitterTweetButtonOptions.vue:275
+msgid "Hide Borders"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:426
+#: src/components/TwitterFollowButtonOptions.vue:281
+#: src/components/TwitterTweetButtonOptions.vue:276
+msgid "Transparent"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:427
+#: src/components/TwitterFollowButtonOptions.vue:282
+#: src/components/TwitterTweetButtonOptions.vue:277
+msgid "Hide Scrollbar"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:430
+#: src/components/TwitterFollowButtonOptions.vue:285
+#: src/components/TwitterTweetButtonOptions.vue:280
+msgid "Show Replies"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:434
+#: src/components/TwitterFollowButtonOptions.vue:289
+#: src/components/TwitterTweetButtonOptions.vue:284
+msgid "Twitter Handle"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:440
+#: src/components/TwitterEmbedTweetOptions.vue:336
+#: src/components/TwitterFollowButtonOptions.vue:295
+#: src/components/TwitterTweetButtonOptions.vue:290
+msgid "Twitter Setting"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:460
+#: src/components/TwitterEmbedTweetOptions.vue:355
+#: src/components/TwitterFollowButtonOptions.vue:315
+#: src/components/TwitterTweetButtonOptions.vue:310
+msgid "Language"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:472
+#: src/components/TwitterEmbedTweetOptions.vue:370
+#: src/components/TwitterFollowButtonOptions.vue:327
+#: src/components/TwitterTweetButtonOptions.vue:322
+msgid "Automatic"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:473
+#: src/components/TwitterEmbedTweetOptions.vue:371
+#: src/components/TwitterFollowButtonOptions.vue:328
+#: src/components/TwitterTweetButtonOptions.vue:323
+msgid "English (default)"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:474
+#: src/components/TwitterEmbedTweetOptions.vue:372
+#: src/components/TwitterFollowButtonOptions.vue:329
+#: src/components/TwitterTweetButtonOptions.vue:324
+msgid "Arabic"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:475
+#: src/components/TwitterEmbedTweetOptions.vue:373
+#: src/components/TwitterFollowButtonOptions.vue:330
+#: src/components/TwitterTweetButtonOptions.vue:325
+msgid "Bengali"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:476
+#: src/components/TwitterEmbedTweetOptions.vue:374
+#: src/components/TwitterFollowButtonOptions.vue:331
+#: src/components/TwitterTweetButtonOptions.vue:326
+msgid "Czech"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:477
+#: src/components/TwitterEmbedTweetOptions.vue:375
+#: src/components/TwitterFollowButtonOptions.vue:332
+#: src/components/TwitterTweetButtonOptions.vue:327
+msgid "Danish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:478
+#: src/components/TwitterEmbedTweetOptions.vue:376
+#: src/components/TwitterFollowButtonOptions.vue:333
+#: src/components/TwitterTweetButtonOptions.vue:328
+msgid "German"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:479
+#: src/components/TwitterEmbedTweetOptions.vue:377
+#: src/components/TwitterFollowButtonOptions.vue:334
+#: src/components/TwitterTweetButtonOptions.vue:329
+msgid "Greek"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:480
+#: src/components/TwitterEmbedTweetOptions.vue:378
+#: src/components/TwitterFollowButtonOptions.vue:335
+#: src/components/TwitterTweetButtonOptions.vue:330
+msgid "Spanish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:481
+#: src/components/TwitterEmbedTweetOptions.vue:379
+#: src/components/TwitterFollowButtonOptions.vue:336
+#: src/components/TwitterTweetButtonOptions.vue:331
+msgid "Persian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:482
+#: src/components/TwitterEmbedTweetOptions.vue:380
+#: src/components/TwitterFollowButtonOptions.vue:337
+#: src/components/TwitterTweetButtonOptions.vue:332
+msgid "Finnish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:483
+#: src/components/TwitterEmbedTweetOptions.vue:381
+#: src/components/TwitterFollowButtonOptions.vue:338
+#: src/components/TwitterTweetButtonOptions.vue:333
+msgid "Filipino"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:484
+#: src/components/TwitterEmbedTweetOptions.vue:382
+#: src/components/TwitterFollowButtonOptions.vue:339
+#: src/components/TwitterTweetButtonOptions.vue:334
+msgid "French"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:485
+#: src/components/TwitterEmbedTweetOptions.vue:383
+#: src/components/TwitterFollowButtonOptions.vue:340
+#: src/components/TwitterTweetButtonOptions.vue:335
+msgid "Hebrew"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:486
+#: src/components/TwitterEmbedTweetOptions.vue:384
+#: src/components/TwitterFollowButtonOptions.vue:341
+#: src/components/TwitterTweetButtonOptions.vue:336
+msgid "Hindi"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:487
+#: src/components/TwitterEmbedTweetOptions.vue:385
+#: src/components/TwitterFollowButtonOptions.vue:342
+#: src/components/TwitterTweetButtonOptions.vue:337
+msgid "Hungarian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:488
+#: src/components/TwitterEmbedTweetOptions.vue:386
+#: src/components/TwitterFollowButtonOptions.vue:343
+#: src/components/TwitterTweetButtonOptions.vue:338
+msgid "Indonesian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:489
+#: src/components/TwitterEmbedTweetOptions.vue:387
+#: src/components/TwitterFollowButtonOptions.vue:344
+#: src/components/TwitterTweetButtonOptions.vue:339
+msgid "Italian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:490
+#: src/components/TwitterEmbedTweetOptions.vue:388
+#: src/components/TwitterFollowButtonOptions.vue:345
+#: src/components/TwitterTweetButtonOptions.vue:340
+msgid "Japanese"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:491
+#: src/components/TwitterEmbedTweetOptions.vue:389
+#: src/components/TwitterFollowButtonOptions.vue:346
+#: src/components/TwitterTweetButtonOptions.vue:341
+msgid "Korean"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:492
+#: src/components/TwitterEmbedTweetOptions.vue:390
+#: src/components/TwitterFollowButtonOptions.vue:347
+#: src/components/TwitterTweetButtonOptions.vue:342
+msgid "Malay"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:493
+#: src/components/TwitterEmbedTweetOptions.vue:391
+#: src/components/TwitterFollowButtonOptions.vue:348
+#: src/components/TwitterTweetButtonOptions.vue:343
+msgid "Dutch"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:494
+#: src/components/TwitterEmbedTweetOptions.vue:392
+#: src/components/TwitterFollowButtonOptions.vue:349
+#: src/components/TwitterTweetButtonOptions.vue:344
+msgid "Norwegian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:495
+#: src/components/TwitterEmbedTweetOptions.vue:393
+#: src/components/TwitterFollowButtonOptions.vue:350
+#: src/components/TwitterTweetButtonOptions.vue:345
+msgid "Polish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:496
+#: src/components/TwitterEmbedTweetOptions.vue:394
+#: src/components/TwitterFollowButtonOptions.vue:351
+#: src/components/TwitterTweetButtonOptions.vue:346
+msgid "Portuguese"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:497
+#: src/components/TwitterEmbedTweetOptions.vue:395
+#: src/components/TwitterFollowButtonOptions.vue:352
+#: src/components/TwitterTweetButtonOptions.vue:347
+msgid "Romanian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:498
+#: src/components/TwitterEmbedTweetOptions.vue:396
+#: src/components/TwitterFollowButtonOptions.vue:353
+#: src/components/TwitterTweetButtonOptions.vue:348
+msgid "Russian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:499
+#: src/components/TwitterEmbedTweetOptions.vue:397
+#: src/components/TwitterFollowButtonOptions.vue:354
+#: src/components/TwitterTweetButtonOptions.vue:349
+msgid "Swedish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:500
+#: src/components/TwitterEmbedTweetOptions.vue:398
+#: src/components/TwitterFollowButtonOptions.vue:355
+#: src/components/TwitterTweetButtonOptions.vue:350
+msgid "Thai"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:501
+#: src/components/TwitterEmbedTweetOptions.vue:399
+#: src/components/TwitterFollowButtonOptions.vue:356
+#: src/components/TwitterTweetButtonOptions.vue:351
+msgid "Turkish"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:502
+#: src/components/TwitterEmbedTweetOptions.vue:400
+#: src/components/TwitterFollowButtonOptions.vue:357
+#: src/components/TwitterTweetButtonOptions.vue:352
+msgid "Ukrainian"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:503
+#: src/components/TwitterEmbedTweetOptions.vue:401
+#: src/components/TwitterFollowButtonOptions.vue:358
+#: src/components/TwitterTweetButtonOptions.vue:353
+msgid "Urdu"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:504
+#: src/components/TwitterEmbedTweetOptions.vue:402
+#: src/components/TwitterFollowButtonOptions.vue:359
+#: src/components/TwitterTweetButtonOptions.vue:354
+msgid "Vietnamese"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:505
+#: src/components/TwitterEmbedTweetOptions.vue:403
+#: src/components/TwitterFollowButtonOptions.vue:360
+#: src/components/TwitterTweetButtonOptions.vue:355
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: src/components/TwitterEmbedTimelineOptions.vue:506
+#: src/components/TwitterEmbedTweetOptions.vue:404
+#: src/components/TwitterFollowButtonOptions.vue:361
+#: src/components/TwitterTweetButtonOptions.vue:356
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: src/components/TwitterEmbedTweetOptions.vue:323
+msgid "Hide Conversation"
+msgstr ""
+
+#: src/components/TwitterEmbedTweetOptions.vue:326
+msgid "Hide Photo/Videos/Cards"
+msgstr ""
+
+#: src/components/TwitterEmbedTweetOptions.vue:330
+msgid "Tweet ID"
+msgstr ""
+
+#: src/components/TwitterFollowButtonOptions.vue:301
+msgid "Twitter Screen Name"
+msgstr ""
+
+#: src/components/TwitterFollowButtonOptions.vue:302
+msgid "Show Screen Name"
+msgstr ""
+
+#: src/components/TwitterFollowButtonOptions.vue:303
+msgid "Show Count"
+msgstr ""
+
+#: src/components/TwitterFollowButtonOptions.vue:304
+#: src/components/TwitterTweetButtonOptions.vue:299
+msgid "Via"
+msgstr ""
+
+#: src/components/TwitterFollowButtonOptions.vue:305
+#: src/components/TwitterTweetButtonOptions.vue:300
+msgid "Related"
+msgstr ""
+
+#: src/components/TwitterTweetButtonOptions.vue:296
+msgid "Url"
+msgstr ""
+
+#: src/components/TwitterTweetButtonOptions.vue:298
+msgid "Hashtags"
+msgstr ""
+
+#: src/components/TypographyControl.vue:273
+msgid "Typography"
+msgstr ""
+
+#: src/components/TypographyControl.vue:278
+msgid "Line Height"
+msgstr ""
+
+#: src/components/TypographyControl.vue:279
+msgid "Letter Spacing"
+msgstr ""
+
+#: src/components/TypographyControl.vue:281
+#: src/components/WCCustomProductsGridOptions.vue:796
+msgid "Alignment"
+msgstr ""
+
+#: src/components/TypographyControl.vue:282
+msgid "Letter Case"
+msgstr ""
+
+#: src/components/TypographyControl.vue:283
+msgid "Normal"
+msgstr ""
+
+#: src/components/VideoOptions.vue:185
+#: src/views/SetupDesign-Pro.vue:792
+msgid "YouTube URL"
+msgstr ""
+
+#: src/components/VideoOptions.vue:186
+msgid "Custom Video Code"
+msgstr ""
+
+#: src/components/WCAddToCartOptions.vue:628
+msgid "Product ID"
+msgstr ""
+
+#: src/components/WCAddToCartOptions.vue:629
+msgid "Direct To Checkout"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:416
+#: src/components/WCCheckoutOptions.vue:629
+#: src/components/WCCustomProductsGridOptions.vue:720
+#: src/views/SetupDesign-Pro.vue:802
+msgid "Headers"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:419
+#: src/components/WCCheckoutOptions.vue:632
+#: src/components/WCCustomProductsGridOptions.vue:723
+msgid "Alerts"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:420
+#: src/components/WCCheckoutOptions.vue:633
+#: src/components/WCCustomProductsGridOptions.vue:724
+msgid "Cart"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:421
+#: src/components/WCCheckoutOptions.vue:634
+#: src/components/WCCustomProductsGridOptions.vue:725
+msgid "Payment Section"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:431
+#: src/components/WCCheckoutOptions.vue:644
+#: src/components/WCCustomProductsGridOptions.vue:735
+msgid "One Column"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:432
+#: src/components/WCCheckoutOptions.vue:645
+#: src/components/WCCustomProductsGridOptions.vue:736
+msgid "Two Column"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:442
+#: src/components/WCCheckoutOptions.vue:655
+#: src/components/WCCustomProductsGridOptions.vue:802
+msgid "Button Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:449
+#: src/components/WCCheckoutOptions.vue:662
+#: src/components/WCCustomProductsGridOptions.vue:753
+msgid "Info Highlight Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:450
+#: src/components/WCCheckoutOptions.vue:663
+#: src/components/WCCustomProductsGridOptions.vue:754
+msgid "Error Highlight Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:451
+#: src/components/WCCheckoutOptions.vue:664
+#: src/components/WCCustomProductsGridOptions.vue:755
+msgid "Success Highlight Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:452
+#: src/components/WCCheckoutOptions.vue:665
+#: src/components/WCCustomProductsGridOptions.vue:756
+msgid "Cart Border Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:453
+#: src/components/WCCheckoutOptions.vue:666
+#: src/components/WCCustomProductsGridOptions.vue:757
+msgid "Cart Border Width"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:458
+#: src/components/WCCheckoutOptions.vue:671
+#: src/components/WCCustomProductsGridOptions.vue:762
+msgid "Header Background Color"
+msgstr ""
+
+#: src/components/WCCartOptions.vue:459
+#: src/components/WCCheckoutOptions.vue:672
+#: src/components/WCCustomProductsGridOptions.vue:763
+msgid "Header Font Family"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:766
+msgid "Query"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:768
+msgid "Columns"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:769
+msgid "All Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:770
+msgid "Pagination"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:774
+msgid "Featured Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:775
+msgid "Sale Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:776
+msgid "Best Selling Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:777
+msgid "Recent Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:778
+msgid "Top Rated Products"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:779
+msgid "Include"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:780
+msgid "Exclude"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:781
+msgid "Include By"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:782
+msgid "Exclude By"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:783
+msgid "Term"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:785
+msgid "Order"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:793
+msgid "ASC"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:794
+msgid "DESC"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:823
+msgid "Image Border Color"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:824
+msgid "Image Border Width"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:830
+msgid "Limit"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:831
+msgid "- Select Options -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:833
+msgid "ID"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:834
+msgid "Menu Order"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:835
+msgid "Popularity"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:836
+msgid "Random"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:839
+msgid "Select By SKU"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:840
+msgid "- Select SKU(s) -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:841
+msgid "Select By Category"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:842
+msgid "- Select Categories -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:843
+msgid "Select By Tags"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:844
+msgid "- Select Tags -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:845
+msgid "Select By Group"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:846
+msgid "- Select Group -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:847
+msgid "On Sale"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:848
+msgid "Best Selling"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:849
+msgid "Top Rated"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:850
+msgid "Query By Attribute"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:851
+msgid "- Select Attribute -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:852
+msgid "- Select Attribute Terms -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:853
+msgid "Include Selected Terms"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:854
+msgid "Exclude Selected Terms"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:855
+msgid "Include Selected Tags"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:856
+msgid "Exclude Selected Tags"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:857
+msgid "Include Selected Categories"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:858
+msgid "Exclude Selected Categories"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:859
+msgid "Select By Visibility"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:860
+msgid "- Select Product Visibility -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:861
+msgid "Visible"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:862
+msgid "Catalog"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:864
+msgid "Hidden"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:865
+msgid "Featured"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:866
+msgid "Custom Query"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:867
+msgid "Select By ID"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:868
+msgid "- Select ID(s) -"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:869
+msgid "Show Items Count"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:870
+msgid "Show Order By"
+msgstr ""
+
+#: src/components/WCCustomProductsGridOptions.vue:871
+msgid "Sale Badge Color"
+msgstr ""
+
+#: src/mixins/helpers.js:712
+#: src/views/SectionTemplateOptions-Pro.vue:419
+#: src/views/TemplateChooser-Pro.vue:1276
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: src/mixins/helpers.js:718
+#: src/views/SectionTemplateOptions-Pro.vue:428
+#: src/views/TemplateChooser-Pro.vue:1285
+msgid "Yes, delete it!"
+msgstr ""
+
+#: src/mixins/helpers.js:832
+msgid "Visit Docs&nbsp;<i class=\"fas fa-external-link-alt\"></i>"
+msgstr ""
+
+#: src/mixins/helpers.js:852
+msgid " is a PRO Feature"
+msgstr ""
+
+#: src/mixins/helpers.js:856
+msgid ""
+" feature is not available on your plan. Please upgrade to the PRO plan to "
+"unlock all these awesome features."
+msgstr ""
+
+#: src/mixins/helpers.js:867
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: src/mixins/helpers.js:871
+msgid ""
+"<strong>Bonus:</strong>&nbsp;SeedProd Lite users get a discount off the "
+"regular price, automatically applied at checkout."
+msgstr ""
+
+#: src/mixins/helpers.js:882
+msgid ""
+"Thanks for your interest in SeedProd Pro!<br>If you have any questions or "
+"issues just <a href='https://www.seedprod.com/?contact=1' "
+"target='_blank'>let us know</a>.<br><br>After purchasing SeedProd Pro, "
+"you'll need to download and install the Pro version of the plugin, and then "
+"remove the free plugin. <br><br>(Don't worry, all your settings will be "
+"preserved.)"
+msgstr ""
+
+#: src/mixins/helpers.js:895
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: src/mixins/helpers.js:897
+msgid ""
+"Increase traffic, engagement, and get more email subscribers. Click below "
+"to learn more about all our awesome features."
+msgstr ""
+
+#: src/mixins/helpers.js:899
+msgid "Upgrade to Unlock "
+msgstr ""
+
+#: src/mixins/helpers.js:901
+msgid "We're sorry, the "
+msgstr ""
+
+#: src/mixins/helpers.js:903
+msgid ""
+" feature is not available on your plan. Please upgrade your plan to unlock "
+"this feature and more!"
+msgstr ""
+
+#: src/mixins/helpers.js:916
+msgid "Upgrade with just a click of a button!"
+msgstr ""
+
+#: src/views/Layoutnav.vue:282
+msgid "Expand All"
+msgstr ""
+
+#: src/views/Layoutnav.vue:283
+msgid "Collapse All"
+msgstr ""
+
+#: src/views/Layoutnav.vue:284
+msgid "Section"
+msgstr ""
+
+#: src/views/Revisions.vue:61
+msgid "Loading Revisons"
+msgstr ""
+
+#: src/views/Revisions.vue:62
+msgid "Click to preview version:"
+msgstr ""
+
+#: src/views/Revisions.vue:63
+msgid "Current Version"
+msgstr ""
+
+#: src/views/Revisions.vue:64
+msgid "by"
+msgstr ""
+
+#: src/views/Revisions.vue:65
+msgid "There are no revisons to show."
+msgstr ""
+
+#: src/views/Revisions.vue:66
+msgid "ago"
+msgstr ""
+
+#: src/views/SectionTemplateOptions-Pro.vue:379
+#: src/views/TemplateChooser-Pro.vue:1136
+msgid "No Templates Found"
+msgstr ""
+
+#: src/views/SectionTemplateOptions-Pro.vue:380
+msgid "Choose This Section"
+msgstr ""
+
+#: src/views/SectionTemplateOptions-Pro.vue:479
+#: src/views/TemplateChooser-Pro.vue:1334
+msgid "Deleted!"
+msgstr ""
+
+#: src/views/SectionTemplates-Pro.vue:100
+msgid "All Sections"
+msgstr ""
+
+#: src/views/SectionTemplates-Pro.vue:101
+msgid "Favorites"
+msgstr ""
+
+#: src/views/SectionTemplates-Pro.vue:102
+msgid "Categories:"
+msgstr ""
+
+#: src/views/SectionTemplates-Pro.vue:98
+#: src/views/SetupBlockOptions-Pro.vue:828
+msgid "Blocks"
+msgstr ""
+
+#: src/views/SectionTemplates-Pro.vue:99
+#: src/views/SetupBlockOptions-Pro.vue:829
+msgid "Sections"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:293
+#: src/views/SetupSettings.vue:247
+msgid "Access Control"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:294
+msgid "Exclude Default:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:297
+msgid ""
+"By default we exclude urls with the terms: login, admin, dashboard and "
+"account to prevent lockouts."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:298
+msgid "Bypass Cookie:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:299
+msgid ""
+"Use cookies instead of creating a WordPress user for the bypass. Note: this "
+"may not work on sites that are cached. Learn More"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:300
+msgid "Bypass URL:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:301
+msgid "Bypass URL Expires:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:302
+msgid "Access by IP:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:303
+msgid "Access by Role:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:304
+msgid ""
+"By default anyone logged in will see the regular website and not the coming "
+"soon page. To override this select Roles that will be given access to see "
+"the regular website."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:305
+msgid "Include/Exclude URLs:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:306
+msgid "Show on the Entire Website"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:307
+msgid "Show on the Entire Website except for the Blog"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:308
+msgid "Show on the Home Page Only"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:309
+msgid "Include URLs"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:310
+msgid "Exclude URLs"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:311
+msgid ""
+"By default the Coming Soon/Maintenance page is shown on every page. Use the "
+"'Show on the Home Page Only' option to only show on the home page. "
+"Alternatively Include or Exclude URLs."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:312
+msgid ""
+"Enter a phrase above and give your visitors a secret url that will allow "
+"them to bypass the Coming Soon page."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:313
+msgid ""
+"After the bypass url expires the user will need to revisit the bypass url "
+"to regain access."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:314
+msgid "One IP Address per line"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:315
+msgid "All visitors from certain IP's to bypass the Coming Soon page."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:316
+msgid "Put each IP on it's own line. Your current IP is:"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:317
+msgid "Add Role"
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:318
+msgid "Include certain urls to display the Coming Soon or Maintenance Page."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:319
+msgid "One per line. You may also enter a page or post id."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:320
+msgid "Exclude certain urls to display the Coming Soon or Maintenance Page."
+msgstr ""
+
+#: src/views/SettingsAccess-Pro.vue:321
+msgid "Example: /about-us/"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:114
+#: src/views/SetupSettings.vue:249
+msgid "Analytics"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:115
+msgid "Your Analytics settings are being managed by:"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:119
+msgid "Edit Analytics Settings"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:120
+#: src/views/SettingsSEO.vue:229
+msgid "Your SEO settings are being managed by:"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:124
+msgid "Install Google Analytics plugin:"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:128
+msgid "Install MonsterInsights"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:129
+msgid "Activate MonsterInsights"
+msgstr ""
+
+#: src/views/SettingsAnalytics.vue:130
+msgid "Install Analytics plugin:"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:120
+#: src/views/SetupSettings.vue:251
+msgid "Custom Domain"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:121
+msgid "Custom Domain:"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:122
+msgid "OFF"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:123
+msgid "ON"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:124
+msgid "Domain Name:"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:125
+msgid "Please enter your domain."
+msgstr ""
+
+#: src/views/SettingsDomain.vue:126
+msgid "Click here to learn more"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:127
+msgid "how to map your custom domain."
+msgstr ""
+
+#: src/views/SettingsDomain.vue:128
+msgid "Force HTTPS"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:129
+msgid ""
+"Only enable this if you have an SSL certificate installed and you wish to "
+"redirect users to https://"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:130
+msgid "Please enter a valid URL that will be pointed to this landing page, such as"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:131
+msgid ""
+"It should look something like, 'mynewdomain.com' or "
+"'mynewdomain.com/coming-soon'"
+msgstr ""
+
+#: src/views/SettingsDomain.vue:132
+msgid ""
+"You can leave out the 'http://'. If you are using 'https://', turn on Force "
+"HTTPS below."
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:218
+msgid "Page Title:"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:219
+#: src/views/TemplateChooser-Pro.vue:1145
+msgid "Page URL:"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:220
+msgid "Page Status:"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:221
+msgid "Draft"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:222
+#: src/views/Setup.vue:662
+msgid "Publish"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:223
+msgid "\"Powered by SeedProd\""
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:226
+msgid "Choose New Template:"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:227
+msgid "Redirect Mode"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:228
+msgid ""
+"Redirect URL: A temporary redirect (302 status) will be created to the url "
+"entered."
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:229
+msgid "Enable"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:230
+msgid ""
+"Redirect URL: A permanent redirect (301 status) will be created to the url "
+"entered."
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:232
+msgid "SeedProd Link"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:233
+msgid "Enter Your Affiliate URL and Make Money with SeedProd"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:234
+msgid "Join our affiliate program"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:235
+msgid "and get a 20% commission on all sales generated from your powered by link."
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:236
+msgid "Isolation Mode"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:237
+msgid "Redirect the Default Login Page"
+msgstr ""
+
+#: src/views/SettingsGeneral.vue:238
+msgid "Facebook App ID:"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:228
+#: src/views/SetupSettings.vue:248
+msgid "SEO"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:233
+msgid "Yoast SEO"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:234
+msgid "Edit this page's SEO Settings"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:239
+msgid "Install All In One SEO"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:240
+msgid "Activate All in One SEO"
+msgstr ""
+
+#: src/views/SettingsSEO.vue:241
+msgid "Install SEO plugin:"
+msgstr ""
+
+#: src/views/SettingsScripts.vue:56
+#: src/views/SetupSettings.vue:250
+msgid "Scripts"
+msgstr ""
+
+#: src/views/SettingsScripts.vue:57
+msgid "Header Scripts:"
+msgstr ""
+
+#: src/views/SettingsScripts.vue:58
+msgid "This code will be rendered before the closing &lt;/head&gt; tag."
+msgstr ""
+
+#: src/views/SettingsScripts.vue:62
+msgid "Footer Scripts:"
+msgstr ""
+
+#: src/views/SettingsScripts.vue:63
+msgid "The code will be rendered before the closing &lt;/body&gt; tag."
+msgstr ""
+
+#: src/views/SettingsScripts.vue:67
+msgid "Body Scripts:"
+msgstr ""
+
+#: src/views/SettingsScripts.vue:68
+msgid "The code will be rendered after the &lt;body&gt; tag."
+msgstr ""
+
+#: src/views/SettingsScripts.vue:72
+msgid "You do not have the proper WordPress permissions to add scripts."
+msgstr ""
+
+#: src/views/Setup.vue:1019
+msgid ""
+"Something has prevented the page from being saved. The host you are using "
+"may have a security setting preventing it from being saved. Refresh the "
+"page and try again."
+msgstr ""
+
+#: src/views/Setup.vue:651
+msgid "Design"
+msgstr ""
+
+#: src/views/Setup.vue:652
+msgid "Connect"
+msgstr ""
+
+#: src/views/Setup.vue:654
+msgid "You have unsaved changes. Are you sure you want to lose these changes?"
+msgstr ""
+
+#: src/views/Setup.vue:655
+msgid "Exit Without Saving"
+msgstr ""
+
+#: src/views/Setup.vue:656
+msgid "template has been saved!"
+msgstr ""
+
+#: src/views/Setup.vue:657
+msgid "You can find it in your template library when you create a new landing page."
+msgstr ""
+
+#: src/views/Setup.vue:658
+msgid "Enter a new template name:"
+msgstr ""
+
+#: src/views/Setup.vue:660
+msgid "Your page has been published!"
+msgstr ""
+
+#: src/views/Setup.vue:663
+msgid "Unpublish"
+msgstr ""
+
+#: src/views/Setup.vue:664
+msgid "Schedule"
+msgstr ""
+
+#: src/views/Setup.vue:665
+msgid "Save as Template"
+msgstr ""
+
+#: src/views/Setup.vue:666
+msgid "Return to Page Editor"
+msgstr ""
+
+#: src/views/Setup.vue:668
+msgid "See Live Page"
+msgstr ""
+
+#: src/views/Setup.vue:669
+msgid "Save and Exit"
+msgstr ""
+
+#: src/views/Setup.vue:670
+msgid "Help"
+msgstr ""
+
+#: src/views/Setup.vue:671
+msgid "Save"
+msgstr ""
+
+#: src/views/SetupBlockOptions-Pro.vue:832
+msgid "Saved Blocks"
+msgstr ""
+
+#: src/views/SetupBlockOptions-Pro.vue:833
+#: src/views/SetupDesign-Pro.vue:786
+msgid "Editing:"
+msgstr ""
+
+#: src/views/SetupBlockOptions-Pro.vue:834
+msgid "Search blocks..."
+msgstr ""
+
+#: src/views/SetupBlockOptions-Pro.vue:835
+msgid "WooCommerce"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:788
+msgid "Header Font"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:789
+msgid "Body Text Font"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:790
+msgid "Dim Background"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:791
+msgid "Use Video Background"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:793
+msgid ""
+"The video background will not be displayed on mobile devices or in the "
+"editor preview."
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:794
+msgid "Play on auto-loop"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:795
+msgid "Enter your custom css below"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:796
+msgid "Edit Custom CSS"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:799
+msgid "Font Themes Library"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:800
+msgid "Search colors..."
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:801
+msgid "Search fonts..."
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:805
+msgid "Links"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:807
+msgid "Font Themes"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:808
+msgid "Color Palettes"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:810
+msgid "Fonts"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:813
+msgid "Custom CSS"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:814
+msgid "All Palettes"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:815
+msgid "All Themes"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:816
+msgid "Serif"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:817
+msgid "Sans Serif"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:818
+msgid "Background Slideshow"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:819
+msgid "Slideshow Images"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:820
+msgid "Add New Slide"
+msgstr ""
+
+#: src/views/SetupDesign-Pro.vue:821
+msgid ""
+"The background slideshow will not be shown in the editor preview. The "
+"slides will only be displayed in the live preview."
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1126
+msgid "&larr; Go Back"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1127
+msgid "&larr; Go to Dashboard"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1128
+msgid "Choose a New Page Template"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1129
+msgid "All Templates"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1130
+msgid "Favorite Templates"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1132
+msgid "No Favorited Templates Found"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1133
+msgid "No Saved Templates Found"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1134
+msgid "Filter:"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1138
+msgid "Choose This Template"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1139
+msgid "Enter your new page details"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1140
+msgid "You can always change it later in Page Settings."
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1144
+msgid "Page Name:"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1146
+msgid "Save and Start Editing the Page"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1154
+msgid "Search templates..."
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1155
+msgid "My Landing Page name goes here"
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1159
+msgid ""
+"You can favorite any template by clicking the heart icon under the page "
+"template."
+msgstr ""
+
+#: src/views/TemplateChooser-Pro.vue:1163
+msgid ""
+"You can save pages as templates in the builder. Any saved pages will be "
+"shown here."
+msgstr ""

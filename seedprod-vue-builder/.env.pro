@@ -1,0 +1,7 @@
+NODE_ENV=production
+SP_VERSION=Pro
+SP_THEME=seedprod-pro
+SP_ASSETS='.'
+VUE_APP_TEXTDOMAIN=seedprod-pro
+SP_LOCAL_DEV=false
+SP_WEBPACK_BUNDLE_ANALYZER=false
